@@ -10,12 +10,12 @@ Je teste régulièrement différents logiciels, que je finis par utiliser au quo
 
 Bonne découverte ! 😉
 
-## Les indispensables
+## Quelques indispensables
 
-## Pour le plaisir
+## Pour quelques moments de détente
 
 ## N'oublions pas les artistes
 
 ## Le jeu-vidéo, ça compte aussi
 
-## Et nos amis les petits bidouilleurs
+## À nos amis les petits bidouilleurs
