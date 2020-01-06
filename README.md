@@ -18,7 +18,7 @@ Pour internet, surfer sur le web, se connecter aux réseaux sociaux, regarder de
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[Google Chrome](https://www.google.com/chrome)|multi|Propriétaire|✔|
+|[**Google Chrome**](https://www.google.com/chrome)|multi|Propriétaire|✔|
 
 ## Pour quelques moments de détente
 
