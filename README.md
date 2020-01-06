@@ -14,7 +14,7 @@ Bonne découverte ! 😉
 
 ### Navigateurs web
 
-Pour internet, surfer sur le web, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, faire des achats en ligne, etc.
+Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
