@@ -2,7 +2,7 @@
 
 Je teste régulièrement différents logiciels, que je finis par utiliser au quotidien pour certains. Je vous propose ci-dessous, une liste de différentes applications et utilitaires que vous pouvez essayer de votre côté :
 
-+ De préférence **multiplateforme**, c'est-à-dire utilisables aussi bien sur Windows, GNU/Linux ou MacOS
++ De préférence **multiplateformes** (marqué _multi_), c'est-à-dire utilisables aussi bien sur Windows, GNU/Linux ou MacOS
 + Idéalement gratuits, open-source ou libres
 + Comme équivalents ou “solutions de remplacemnt” de logiciels commerciaux et/ou propriétaires
 
@@ -11,6 +11,14 @@ Je teste régulièrement différents logiciels, que je finis par utiliser au quo
 Bonne découverte ! 😉
 
 ## Quelques indispensables
+
+### Navigateurs web
+
+Pour internet, surfer sur le web, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, faire des achats en ligne, etc.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[Google Chrome](https://www.google.com/chrome)|multi|Propriétaire|✔|
 
 ## Pour quelques moments de détente
 
