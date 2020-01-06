@@ -21,6 +21,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Google Chrome**](https://www.google.com/chrome)|multi|Propriétaire|✔|
+|[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|Open-source|✔|
 
 ---
 
