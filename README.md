@@ -4,4 +4,6 @@ Je teste régulièrement différents logiciels, que je finis par utiliser au quo
 
 > **NOTE** : j'indique qu'un logiciel est multiplateforme lorsque ce dernier est disponibles sur les trois systèmes pour ordinateur de bureau : Windows, GNU/Linux et MacOS
 
+Bonne découverte ! 😉
+
 ---
