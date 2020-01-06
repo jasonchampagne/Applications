@@ -10,6 +10,8 @@ Je teste régulièrement différents logiciels, que je finis par utiliser au quo
 
 Bonne découverte ! 😉
 
+---
+
 ## Quelques indispensables
 
 ### Navigateurs web
@@ -20,10 +22,18 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |:--|:--|:--|:--:|
 |[**Google Chrome**](https://www.google.com/chrome)|multi|Propriétaire|✔|
 
+---
+
 ## Pour quelques moments de détente
+
+---
 
 ## N'oublions pas les artistes
 
+---
+
 ## Le jeu-vidéo, ça compte aussi
+
+---
 
 ## À nos amis les petits bidouilleurs
