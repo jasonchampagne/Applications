@@ -23,6 +23,7 @@ Pour sécuriser son système Windows et éviter l'accès à certains liens malve
 |[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|Propriétaire|✔|
 |[**Kaspersky Security Cloud - Free**](https://www.kaspersky.fr/free-antivirus)|Propriétaire|✔|
 |[**Norton Antivirus**](https://fr.norton.com)|Propriétaire|❌|
+|[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Propriétaire|✔|
 
 ### Navigateurs web
 
