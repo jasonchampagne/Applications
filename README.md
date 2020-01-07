@@ -16,7 +16,9 @@ Bonne découverte ! 😉
 
 ### Antivirus
 
-Pour sécuriser son système Windows et éviter l'accès à certains liens malveillants ou tentatives de vol d'identifiants. À moins d'être une entreprise, inutile d'investir dans une solution coûteuse.
+Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
+
+> **NOTE** : À moins d'être une entreprise, inutile d'investir dans une solution payante.
 
 |LOGICIEL|LICENCE|GRATUIT ?|
 |:--|:--|:--:|
