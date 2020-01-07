@@ -12,7 +12,7 @@ Bonne découverte ! 😉
 
 ---
 
-## I. Quelques indispensables
+## QUELQUES INDISPENSABLES
 
 ### Antivirus
 
@@ -41,16 +41,20 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 ---
 
-## II. Pour quelques moments de détente
+## DIFFICILE DE S'EN PASSER
 
 ---
 
-## III. N'oublions pas les artistes
+## UN MOMENT POUR SE DÉTENDRE
 
 ---
 
-## IV. Le jeu-vidéo, ça compte aussi
+## N'OUBLIONS PAS LES ARTISTES
 
 ---
 
-## V. À nos amis les petits bidouilleurs
+## LE JEU-VIDÉO, ÇA COMPTE AUSSI
+
+---
+
+## QUAND ON AIME BIDOUILLER
