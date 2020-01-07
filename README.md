@@ -39,6 +39,14 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |[**Opera**](https://www.opera.com/fr)|multi|Propriétaire|✔|
 |[**Vivaldi**](https://vivaldi.com/fr)|multi|Propriétaire|✔|
 
+### Suites bureautique
+
+Pour éditer des documents, faire ses comptes, préparer un diaporama, ...
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Microsoft Office**](https://www.office.com)|Windows, MacOS|Propriétaire|❌|
+
 ---
 
 ## DIFFICILE DE S'EN PASSER
