@@ -21,7 +21,7 @@ Pour sécuriser son système Windows et éviter l'accès à certains liens malve
 |LOGICIEL|LICENCE|GRATUIT ?|
 |:--|:--|:--:|
 |[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|Propriétaire|✔|
-|[**Kaspersky Cloud Security - Free**](https://www.kaspersky.fr/free-antivirus)|Propriétaire|✔|
+|[**Kaspersky Security Cloud - Free**](https://www.kaspersky.fr/free-antivirus)|Propriétaire|✔|
 
 ### Navigateurs web
 
