@@ -14,7 +14,7 @@ Bonne découverte ! 😉
 
 ## I. Quelques indispensables
 
-### I.a. Antivirus
+### Antivirus
 
 Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
 
@@ -27,7 +27,7 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 |[**Norton Antivirus**](https://fr.norton.com)|Propriétaire|❌|
 |[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Propriétaire|✔|
 
-### I.b. Navigateurs web
+### Navigateurs web
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
 
