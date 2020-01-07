@@ -89,3 +89,9 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 ---
 
 ## ET D'AUTRES QUI VALENT LE COUP D'OEIL
+
+Une liste en vrac d'applications diverses et variées...
+
++ [CDBurnerXP](https://www.cdburnerxp.se/?lang=fr)
++ [CryptoTab](https://cryptotab.net/fr)
++ [SMPlayer](https://www.smplayer.info/fr/info)
