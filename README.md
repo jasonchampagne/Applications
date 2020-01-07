@@ -45,8 +45,8 @@ Pour éditer des documents, faire ses comptes, préparer un diaporama, ...
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**LibreOffice**](https://fr.libreoffice.org)|multi|Libre|✔|
-|[**Microsoft Office**](https://www.office.com)|Windows, MacOS|Propriétaire|❌|
+|[**LibreOffice**](https://fr.libreoffice.org)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
+|[**Microsoft Office**](https://www.office.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 |[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) ou [SaaS](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)|✔|
 
 ---
