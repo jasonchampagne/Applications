@@ -12,9 +12,9 @@ Bonne découverte ! 😉
 
 ---
 
-## Quelques indispensables
+## I. Quelques indispensables
 
-### Antivirus
+### I.a. Antivirus
 
 Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
 
@@ -27,7 +27,7 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 |[**Norton Antivirus**](https://fr.norton.com)|Propriétaire|❌|
 |[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Propriétaire|✔|
 
-### Navigateurs web
+### I.b. Navigateurs web
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
 
@@ -41,16 +41,16 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 ---
 
-## Pour quelques moments de détente
+## II. Pour quelques moments de détente
 
 ---
 
-## N'oublions pas les artistes
+## III. N'oublions pas les artistes
 
 ---
 
-## Le jeu-vidéo, ça compte aussi
+## IV. Le jeu-vidéo, ça compte aussi
 
 ---
 
-## À nos amis les petits bidouilleurs
+## V. À nos amis les petits bidouilleurs
