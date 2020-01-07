@@ -22,6 +22,8 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |:--|:--|:--|:--:|
 |[**Google Chrome**](https://www.google.com/chrome)|multi|Propriétaire|✔|
 |[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|Libre|✔|
+|[**Opera**](https://www.opera.com/fr)|multi|Propriétaire|✔|
+|[**Vivaldi**](https://vivaldi.com/fr)|multi|Propriétaire|✔|
 
 ---
 
