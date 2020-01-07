@@ -27,6 +27,16 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 |[**Norton Antivirus**](https://fr.norton.com)|Propriétaire|❌|
 |[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Propriétaire|✔|
 
+### Gestionnaire de mots de passe
+
+Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'un unique mot de passe (et complexe) pour chaque compte utilisateur.
+
+> **NOTE** : Des applications mobiles existent pour gérer votre coffre-fort et vous connecter également sur vos smartphones et tablettes en toute sécurité.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**KeePassXC**](https://keepassxc.org/)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
+
 ### Navigateur web
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
