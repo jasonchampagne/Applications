@@ -35,7 +35,8 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**KeePassXC**](https://keepassxc.org/)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
+|[**Bitwarden**](https://bitwarden.com)||[AGPL]() / [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)||
+|[**KeePassXC**](https://keepassxc.org)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
 |[**LastPass**](https://www.lastpass.com/fr)|multi|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔ / ❌|
 
 ### Navigateur web
@@ -46,9 +47,9 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |:--|:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
 |[**Google Chrome**](https://www.google.com/chrome)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
-|[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License), [GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) et [LGPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_limit%C3%A9e_GNU)|✔|
-|[**Opera**](https://www.opera.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware) et [Open-source](https://fr.wikipedia.org/wiki/Open_source)|✔|
-|[**Vivaldi**](https://vivaldi.com/fr)|multi|[BSD](https://fr.wikipedia.org/wiki/Licence_BSD) et [Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|[GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) / [LGPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_limit%C3%A9e_GNU) / [MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
+|[**Opera**](https://www.opera.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware) / [Open-source](https://fr.wikipedia.org/wiki/Open_source)|✔|
+|[**Vivaldi**](https://vivaldi.com/fr)|multi|[BSD](https://fr.wikipedia.org/wiki/Licence_BSD) / [Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 
 ### Bureautique
 
