@@ -36,7 +36,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**KeePassXC**](https://keepassxc.org/)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
-|[**LastPass**](https://www.lastpass.com/fr)|multi|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔ et ❌|
+|[**LastPass**](https://www.lastpass.com/fr)|multi|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔ / ❌|
 
 ### Navigateur web
 
