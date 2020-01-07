@@ -18,10 +18,10 @@ Bonne découverte ! 😉
 
 Pour sécuriser son système Windows et éviter l'accès à certains liens malveillants ou tentatives de vol d'identifiants. À moins d'être une entreprise, inutile d'investir dans une solution coûteuse.
 
-|LOGICIEL|LICENCE|
-|:--|:--|
-|[Avira Free Antivirus](https://www.avira.com/fr/free-antivirus)|Propriétaire|
-|[Kaspersky Cloud Security - Free](https://www.kaspersky.fr/free-antivirus)|Propriétaire|
+|LOGICIEL|LICENCE|GRATUIT ?|
+|:--|:--|:--:|
+|[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|Propriétaire|✔|
+|[**Kaspersky Cloud Security - Free**](https://www.kaspersky.fr/free-antivirus)|Propriétaire|✔|
 
 ### Navigateurs web
 
