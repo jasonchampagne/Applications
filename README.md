@@ -22,10 +22,10 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 
 |LOGICIEL|LICENCE|GRATUIT ?|
 |:--|:--|:--:|
-|[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|Propriétaire|✔|
-|[**Kaspersky Security Cloud - Free**](https://www.kaspersky.fr/free-antivirus)|Propriétaire|✔|
-|[**Norton Antivirus**](https://fr.norton.com)|Propriétaire|❌|
-|[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Propriétaire|✔|
+|[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Kaspersky Security Cloud - Free**](https://www.kaspersky.fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Norton Antivirus**](https://fr.norton.com)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 
 ### Gestionnaire de mots de passe
 
@@ -36,6 +36,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**KeePassXC**](https://keepassxc.org/)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
+|[**LastPass**](https://www.lastpass.com/fr)|multi|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔ et ❌|
 
 ### Navigateur web
 
