@@ -61,4 +61,4 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 ---
 
-## ET D'AUTRES QUI VALENT LE COUP D'OEIL...
+## ET D'AUTRES QUI VALENT LE COUP D'OEIL
