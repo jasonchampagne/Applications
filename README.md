@@ -43,6 +43,8 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
 
+> **NOTE** : Majoritairement, un navigateur permet également de lire des médias, visionner des documents PDF. D'autres incluent certaines fonctionnalités comme un [VPN](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel).
+
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
