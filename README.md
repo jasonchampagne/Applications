@@ -36,7 +36,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |[**Brave**](https://brave.com/fr)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
 |[**Google Chrome**](https://www.google.com/chrome)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
 |[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License), [GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) et [LGPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_limit%C3%A9e_GNU)|✔|
-|[**Opera**](https://www.opera.com/fr)|multi|Propriétaire|✔|
+|[**Opera**](https://www.opera.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Gratuiciel) et [Open-source](https://fr.wikipedia.org/wiki/Open_source)|✔|
 |[**Vivaldi**](https://vivaldi.com/fr)|multi|Propriétaire|✔|
 
 ### Suites bureautique
