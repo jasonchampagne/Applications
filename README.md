@@ -45,6 +45,7 @@ Pour éditer des documents, faire ses comptes, préparer un diaporama, ...
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**LibreOffice**](https://fr.libreoffice.org)|multi|Libre|✔|
 |[**Microsoft Office**](https://www.office.com)|Windows, MacOS|Propriétaire|❌|
 
 ---
