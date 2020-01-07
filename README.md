@@ -20,6 +20,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Brave**](https://brave.com/fr)|multi|Open-source|✔|
 |[**Google Chrome**](https://www.google.com/chrome)|multi|Propriétaire|✔|
 |[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|Libre|✔|
 |[**Opera**](https://www.opera.com/fr)|multi|Propriétaire|✔|
