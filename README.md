@@ -35,7 +35,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Bitwarden**](https://bitwarden.com)||[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) / [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔ / ❌|
+|[**Bitwarden**](https://bitwarden.com)|multi|[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) / [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔ / ❌|
 |[**KeePassXC**](https://keepassxc.org)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
 |[**LastPass**](https://www.lastpass.com/fr)|multi|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔ / ❌|
 
