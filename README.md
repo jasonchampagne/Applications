@@ -41,7 +41,9 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 ### Bureautique
 
-Pour éditer des documents, faire ses comptes, préparer un diaporama, ...
+Pour éditer des documents, organiser des données dans un tableau, réaliser une présentation visuelle.
+
+> **NOTE** : Sans installation nécessaire, vous pouvez également vous servir des solutions de Google telles que [Docs](https://www.google.com/docs/about) (traitement de texte), [Sheets](https://www.google.com/sheets/about) (tableau) et [Slides](https://www.google.com/slides/about) (diaporama)
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
@@ -49,8 +51,6 @@ Pour éditer des documents, faire ses comptes, préparer un diaporama, ...
 |[**Microsoft Office**](https://www.office.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 |[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) ou [SaaS](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)|✔|
 |[**SoftMaker FreeOffice**](https://www.freeoffice.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
-
-> **NOTE** : Sans installation nécessaire, vous pouvez également vous servir des solutions de Google telles que [Docs](https://www.google.com/docs/about), [Sheets](https://www.google.com/sheets/about) et [Slides](https://www.google.com/slides/about)
 
 ---
 
