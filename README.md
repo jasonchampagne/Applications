@@ -27,7 +27,7 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 |[**Norton Antivirus**](https://fr.norton.com)|Propriétaire|❌|
 |[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Propriétaire|✔|
 
-### Navigateurs web
+### Navigateur web
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
 
@@ -39,7 +39,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |[**Opera**](https://www.opera.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Gratuiciel) et [Open-source](https://fr.wikipedia.org/wiki/Open_source)|✔|
 |[**Vivaldi**](https://vivaldi.com/fr)|multi|[BSD](https://fr.wikipedia.org/wiki/Licence_BSD) et [Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 
-### Suites bureautique
+### Bureautique
 
 Pour éditer des documents, faire ses comptes, préparer un diaporama, ...
 
