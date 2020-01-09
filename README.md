@@ -22,9 +22,9 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 
 |ÉDITEUR|PLATEFORME(S)|LICENCE|VERSION GRATUITE DISPONIBLE ?|
 |:--|:--|:--|:--:|
-|[**Armadito**](https://www.armadito.com/fr)|-|-|✔|
+|[**Armadito**](https://www.armadito.com/fr)|Windows, GNU/Linux|[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) / [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html) / [MS-PL](https://opensource.org/licenses/MS-PL)|✔|
 |[**Avira**](https://www.avira.com/fr)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**ClamAV**](https://www.clamav.net)|multi|[GPLv2](https://fr.wikipedia.org/wiki/GPLv2)|✔|
+|[**ClamAV**](https://www.clamav.net)|multi|[GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)|✔|
 |[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 |[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 |[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
