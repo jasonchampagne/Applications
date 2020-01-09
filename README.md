@@ -18,7 +18,7 @@ Bonne découverte ! 😉
 
 Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
 
-> **NOTE** : Excepté dans un cadre professionnel, il n'est pas utile d'investir dans une solution payante.
+> **NOTE** : Excepté dans un cadre professionnel, il n'est pas utile d'investir dans une solution payante (ex : version gratuite d'Avira et de Kaspersky).
 
 |LOGICIEL|LICENCE|GRATUIT ?|
 |:--|:--|:--:|
