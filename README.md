@@ -31,7 +31,7 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 
 Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'un unique mot de passe (et complexe) pour chaque compte utilisateur.
 
-> **NOTE** : Des applications mobiles existent pour gérer votre coffre-fort et vous connecter également sur vos smartphones et tablettes en toute sécurité.
+> **NOTE** : Des applications mobiles existent pour gérer votre coffre-fort et vous connecter également sur vos smartphones et tablettes en toute sécurité. Certains gestionnaires proposent également une synchronisation en ligne.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
@@ -43,7 +43,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
 
-> **NOTE** : Majoritairement, un navigateur permet peut lire vos médias et vos documents PDF. D'autres intègrent certains outils comme un [VPN](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel).
+> **NOTE** : Majoritairement, un navigateur peut lire vos médias et vos documents PDF. D'autres intègrent certains outils comme un [VPN](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
