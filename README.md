@@ -75,6 +75,8 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 Pour organiser ses notes.
 
+> **NOTE** : Sans installation requise, vous pouvez vous servir du service de Google [Keep](https://keep.google.com)
+
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Evernote**](https://evernote.com/intl/fr)|multi|propriétaire|✔ / ❌|
