@@ -22,13 +22,13 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 
 |ÉDITEUR|PLATEFORME(S)|LICENCE|VERSION GRATUITE DISPONIBLE ?|
 |:--|:--|:--|:--:|
-|[**Armadito**](https://www.armadito.com/fr)|Windows, GNU/Linux|[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) / [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html)|✔|
-|[**Avira**](https://www.avira.com/fr)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**ClamAV**](https://www.clamav.net)|multi|[GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)|✔|
-|[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
-|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**Norton**](https://fr.norton.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**Armadito**](https://www.armadito.com/fr)|Windows, GNU/Linux|GPL + LGPL|✔|
+|[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔|
+|[**ClamAV**](https://www.clamav.net)|multi|GPL|✔|
+|[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|propriétaire|❌|
+|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|propriétaire|✔|
+|[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|propriétaire|✔|
+|[**Norton**](https://fr.norton.com)|Windows, MacOS|propriétaire|❌|
 
 ### Gestionnaire de mots de passe
 
@@ -38,9 +38,9 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Bitwarden**](https://bitwarden.com)|multi|[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) / [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔ / ❌|
-|[**KeePassXC**](https://keepassxc.org)|multi|[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)|✔|
-|[**LastPass**](https://www.lastpass.com/fr)|multi|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔ / ❌|
+|[**Bitwarden**](https://bitwarden.com)|multi|AGPL + GPL|✔ / ❌|
+|[**KeePassXC**](https://keepassxc.org)|multi|GPL|✔|
+|[**LastPass**](https://www.lastpass.com/fr)|multi|propriétaire|✔ / ❌|
 
 ### Navigateur web
 
@@ -50,11 +50,11 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Brave**](https://brave.com/fr)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
-|[**Chrome**](https://www.google.com/chrome)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
-|[**Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|[GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) / [LGPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_limit%C3%A9e_GNU) / [MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
-|[**Opera**](https://www.opera.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware) / [Open-source](https://fr.wikipedia.org/wiki/Open_source)|✔|
-|[**Vivaldi**](https://vivaldi.com/fr)|multi|[BSD](https://fr.wikipedia.org/wiki/Licence_BSD) / [Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Brave**](https://brave.com/fr)|multi|MPL|✔|
+|[**Chrome**](https://www.google.com/chrome)|multi|freeware|✔|
+|[**Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|GPL + LGPL + MPL|✔|
+|[**Opera**](https://www.opera.com/fr)|multi|freeware + open-source|✔|
+|[**Vivaldi**](https://vivaldi.com/fr)|multi|BSD + propriétaire|✔|
 
 ### Bureautique
 
@@ -64,10 +64,10 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**FreeOffice**](https://www.freeoffice.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
-|[**LibreOffice**](https://fr.libreoffice.org)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
-|[**MS Office**](https://www.office.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
-|[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) ou [SaaS](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)|✔|
+|[**FreeOffice**](https://www.freeoffice.com/fr)|multi|freeware|✔|
+|[**LibreOffice**](https://fr.libreoffice.org)|multi|MPL|✔|
+|[**MS Office**](https://www.office.com)|Windows, MacOS|propriétaire|❌|
+|[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|AGPL ou SaaS|✔|
 
 ---
 
