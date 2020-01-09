@@ -22,8 +22,7 @@ Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains li
 
 |LOGICIEL|LICENCE|GRATUIT ?|
 |:--|:--|:--:|
-|[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**Avira Antivirus Pro**](https://www.avira.com/fr/buy-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**Avira Antivirus Pro**](https://www.avira.com/fr/buy-antivirus)<br>[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌<br>✔|
 |[**F-Secure SAFE**](https://www.f-secure.com/fr/home/products/safe)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 |[**Kaspersky Security Cloud - Free**](https://www.kaspersky.fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 |[**Norton Antivirus**](https://fr.norton.com)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
