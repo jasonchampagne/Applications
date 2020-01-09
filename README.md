@@ -60,7 +60,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 Pour éditer des documents, organiser des données dans un tableau, réaliser une présentation visuelle.
 
-> **NOTE** : Sans installation requise, vous pouvez vous servir des services de Google telles que [Docs](https://www.google.com/docs/about) (traitement de texte), [Sheets](https://www.google.com/sheets/about) (tableur) et [Slides](https://www.google.com/slides/about) (diaporama)
+> **NOTE** : Sans installation requise, vous pouvez vous servir des services de Google telles que [Docs](https://www.google.com/docs/about) (traitement de texte), [Sheets](https://www.google.com/sheets/about) (tableur) et [Slides](https://www.google.com/slides/about) (diaporama).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
@@ -77,7 +77,7 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 Pour organiser ses notes.
 
-> **NOTE** : Sans installation requise, vous pouvez vous servir du service de Google [Keep](https://keep.google.com)
+> **NOTE** : Sans installation requise, vous pouvez vous servir du service [Keep](https://keep.google.com) de Google.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
@@ -89,6 +89,8 @@ Pour organiser ses notes.
 ### Messagerie électronique
 
 Pour centraliser l'envoi et la réception de ses e-mails.
+
+> **NOTE** : Retrouvez aussi le service en ligne [Outlook](https://outlook.live.com) de Microsoft.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
