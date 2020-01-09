@@ -73,11 +73,16 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 ## DIFFICILE DE S'EN PASSER
 
-Pour chiffrer ses supports de stockage, améliorer le confort sur ses écrans, gérer des notes, consulter ses e-mails et bien d'autres.
+Pour organiser ses notes.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Notable**](https://notable.md)|multi|propriétaire|✔|
+
+Pour centraliser l'envoi et la réception de ses e-mails.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
 |[**Thunderbird**](https://www.thunderbird.net/fr)|multi|GPL + MPL|✔|
 
 ---
