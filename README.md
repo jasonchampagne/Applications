@@ -1,6 +1,6 @@
 # FindMySoftware
 
-Je teste régulièrement différents logiciels, que je finis par utiliser au quotidien pour certains. Je vous propose ci-dessous, une liste de différentes applications et utilitaires que vous pouvez essayer de votre côté :
+Je teste régulièrement différents logiciels sur PC, que je finis par utiliser au quotidien pour certains. Je vous propose ci-dessous, une liste de différentes applications et utilitaires que vous pouvez essayer de votre côté :
 
 + De préférence **multiplateformes**, c'est-à-dire utilisables aussi bien sur Windows, GNU/Linux, MacOS)
 + Idéalement gratuits, open-source ou libres
@@ -77,7 +77,9 @@ Pour organiser ses notes.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Evernote**](https://evernote.com/intl/fr)|multi|propriétaire|✔ / ❌|
 |[**Notable**](https://notable.md)|multi|propriétaire|✔|
+|[**OneNote**](https://products.office.com/fr-fr/onenote)|Windows, MacOS|propriétaire|❌|
 |[**SimpleNote**](https://simplenote.com)|multi|propriétaire|✔|
 
 Pour centraliser l'envoi et la réception de ses e-mails.
