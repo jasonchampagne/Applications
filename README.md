@@ -78,6 +78,7 @@ Pour organiser ses notes.
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Notable**](https://notable.md)|multi|propriétaire|✔|
+|[**SimpleNote**](https://simplenote.com)|multi|propriétaire|✔|
 
 Pour centraliser l'envoi et la réception de ses e-mails.
 
