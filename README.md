@@ -48,8 +48,8 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
-|[**Google Chrome**](https://www.google.com/chrome)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
-|[**Mozilla Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|[GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) / [LGPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_limit%C3%A9e_GNU) / [MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
+|[**Chrome**](https://www.google.com/chrome)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
+|[**Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|[GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) / [LGPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_limit%C3%A9e_GNU) / [MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
 |[**Opera**](https://www.opera.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware) / [Open-source](https://fr.wikipedia.org/wiki/Open_source)|✔|
 |[**Vivaldi**](https://vivaldi.com/fr)|multi|[BSD](https://fr.wikipedia.org/wiki/Licence_BSD) / [Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 
@@ -61,10 +61,10 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**FreeOffice**](https://www.freeoffice.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
 |[**LibreOffice**](https://fr.libreoffice.org)|multi|[MPL](https://fr.wikipedia.org/wiki/Mozilla_Public_License)|✔|
-|[**Microsoft Office**](https://www.office.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**MS Office**](https://www.office.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 |[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|[AGPL](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License) ou [SaaS](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service)|✔|
-|[**SoftMaker FreeOffice**](https://www.freeoffice.com/fr)|multi|[Freeware](https://fr.wikipedia.org/wiki/Freeware)|✔|
 
 ---
 
