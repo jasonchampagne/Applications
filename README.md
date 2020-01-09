@@ -73,6 +73,8 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 ## DIFFICILE DE S'EN PASSER
 
+### Prise de notes
+
 Pour organiser ses notes.
 
 > **NOTE** : Sans installation requise, vous pouvez vous servir du service de Google [Keep](https://keep.google.com)
@@ -83,6 +85,8 @@ Pour organiser ses notes.
 |[**Notable**](https://notable.md)|multi|propriétaire|✔|
 |[**OneNote**](https://products.office.com/fr-fr/onenote)|Windows, MacOS|propriétaire|❌|
 |[**SimpleNote**](https://simplenote.com)|multi|propriétaire|✔|
+
+### Messagerie électronique
 
 Pour centraliser l'envoi et la réception de ses e-mails.
 
