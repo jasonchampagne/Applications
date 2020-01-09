@@ -16,17 +16,17 @@ Bonne découverte ! 😉
 
 ### Antivirus
 
-Pour sécuriser son système Windows ou MacOS et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
+Pour sécuriser son système et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
 
-> **NOTE** : Excepté dans un cadre professionnel, il n'est pas utile d'investir dans une solution payante (ex : version gratuite d'Avira et de Kaspersky).
+> **NOTE** : À moins d'être une entreprise assez conséquente, il n'est pas utile d'investir dans une solution payante et coûteuse. Beaucoup d'éditeurs proposent une version gratuite qui offre déjà une très bonne protection.
 
-|LOGICIEL|LICENCE|GRATUIT ?|
-|:--|:--|:--:|
-|[**Avira Antivirus Pro**](https://www.avira.com/fr/buy-antivirus)<br>[**Avira Free Antivirus**](https://www.avira.com/fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌<br>✔|
-|[**F-Secure SAFE**](https://www.f-secure.com/fr/home/products/safe)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
-|[**Kaspersky Security Cloud - Free**](https://www.kaspersky.fr/free-antivirus)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**Norton Antivirus**](https://fr.norton.com)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
-|[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|ÉDITEUR|PLATEFORME(S)|LICENCE|VERSION GRATUITE DISPONIBLE ?|
+|:--|:--|:--|:--:|
+|[**Avira**](https://www.avira.com/fr)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Symantec - Norton**](https://fr.norton.com)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 
 ### Gestionnaire de mots de passe
 
