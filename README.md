@@ -2,7 +2,7 @@
 
 Je teste régulièrement différents logiciels, que je finis par utiliser au quotidien pour certains. Je vous propose ci-dessous, une liste de différentes applications et utilitaires que vous pouvez essayer de votre côté :
 
-+ De préférence **multiplateformes** (marqué _multi_), c'est-à-dire utilisables aussi bien sur Windows, GNU/Linux ou MacOS
++ De préférence **multiplateformes**, c'est-à-dire utilisables aussi bien sur Windows, GNU/Linux, MacOS)
 + Idéalement gratuits, open-source ou libres
 + Comme équivalents ou “solutions de remplacemnt” de logiciels commerciaux et/ou propriétaires
 
@@ -23,12 +23,12 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 |ÉDITEUR|PLATEFORME(S)|LICENCE|VERSION GRATUITE DISPONIBLE ?|
 |:--|:--|:--|:--:|
 |[**Armadito**](https://www.armadito.com/fr)|-|-|✔|
-|[**Avira**](https://www.avira.com/fr)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**Avira**](https://www.avira.com/fr)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 |[**ClamAV**](https://www.clamav.net)|Windows, GNU/Linux, BSD, MacOS|[GPLv2](https://fr.wikipedia.org/wiki/GPLv2)|✔|
-|[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
-|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
+|[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
 |[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|✔|
-|[**Norton**](https://fr.norton.com)|Windows, MacOS, Android, iOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
+|[**Norton**](https://fr.norton.com)|Windows, MacOS|[Propriétaire](https://fr.wikipedia.org/wiki/Licence_propri%C3%A9taire)|❌|
 
 ### Gestionnaire de mots de passe
 
