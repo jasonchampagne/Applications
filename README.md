@@ -104,6 +104,8 @@ Pour visionner ses images, lire ses fichiers PDF ou formats de bandes dessinées
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Acrobat Reader DC**](https://get.adobe.com/reader/?loc=fr)|Windows, MacOS|propriétaire|✔|
+|[**Calibre**](https://calibre-ebook.com)|multi|GPL|✔|
 |[**Xnview**](https://www.xnview.com/fr)|multi|propriétaire|✔|
 
 ---
