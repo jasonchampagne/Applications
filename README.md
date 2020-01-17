@@ -8,7 +8,7 @@ Bonne découverte ! 😉
 
 ---
 
-**SOMMAIRE**
+⚪ **SOMMAIRE**
 
 + [QUELQUES INDISPENSABLES](#quelques-indispensables)
   + [Antivirus](#antivirus)
