@@ -34,13 +34,13 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 
 > **NOTE** : À moins d'être une entreprise assez conséquente, il n'est pas utile d'investir dans une solution payante et coûteuse. Beaucoup d'éditeurs proposent une version gratuite qui offre déjà une très bonne protection.
 
-|ÉDITEUR|PLATEFORME(S)|LICENCE|VERSION GRATUITE DISPONIBLE ?|
+|ÉDITEUR|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Armadito**](https://www.armadito.com/fr)|Windows, GNU/Linux|GPL + LGPL|✔|
-|[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔|
-|[**ClamAV**](https://www.clamav.net)|multi|GPL|✔|
+|[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
+|[**ClamAV**](https://www.clamav.net)|multi|GPL|✔ / ❌|
 |[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|propriétaire|❌|
-|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|propriétaire|✔|
+|[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|propriétaire|✔|
 |[**Norton**](https://fr.norton.com)|Windows, MacOS|propriétaire|❌|
 
