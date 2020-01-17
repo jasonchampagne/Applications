@@ -124,6 +124,7 @@ Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
 |[**Origin**](https://www.origin.com/fra/fr-fr/store/download)|Windows|propriétaire|✔|
 |[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
+|[**Uplay**](https://uplay.ubisoft.com/fr-FR)|Windows, MacOS|propriétaire|✔|
 
 ---
 
