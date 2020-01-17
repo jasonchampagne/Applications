@@ -3,7 +3,7 @@
 Je teste régulièrement différents logiciels sur PC, que je finis par utiliser au quotidien pour certains. Je vous propose ci-dessous, une liste de différentes applications et utilitaires que vous pouvez essayer de votre côté :
 
 + De préférence **multiplateformes**, c'est-à-dire utilisables aussi bien sur Windows, GNU/Linux, MacOS)
-+ Idéalement gratuits, open-source ou libres
++ Idéalement gratuits et open-source ou libres
 + Comme équivalents ou “solutions de remplacemnt” de logiciels commerciaux et/ou propriétaires
 
 > **REMARQUE** : Certains logiciels proposés peuvent présenter des risques (collecte de vos données personnelles, espionnage de vos activités, ...). Le but ici n'est pas de dresser une liste des applications les plus sûres et respectueuses de votre vie privée. Prenez le soin de vous renseigner sur les origines d'une application, qui la développe, quel pays, etc.
