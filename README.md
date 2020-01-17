@@ -44,7 +44,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 ### Navigateur web
 
-Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder des vidéos sur YouTube, des lives sur Twitch ou encore faire ses achats en ligne.
+Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder du contenu en streaming ou faire ses achats en ligne.
 
 > **NOTE** : Majoritairement, un navigateur peut lire vos médias et vos documents PDF. D'autres intègrent certains outils comme un [VPN](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel).
 
@@ -97,6 +97,14 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 |[**Outlook**](https://products.office.com/fr-fr/compare-all-microsoft-office-products)|Windows, MacOS|propriétaire|❌|
 |[**Rambox**](https://rambox.pro)|multi|GPL|✔ / ❌|
 |[**Thunderbird**](https://www.thunderbird.net/fr)|multi|GPL + MPL|✔|
+
+### Visionneuses de documents
+
+Pour visionner ses images, lire ses fichiers PDF ou formats de bandes dessinées.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Xnview**](https://www.xnview.com/fr)|multi|propriétaire|✔|
 
 ---
 
