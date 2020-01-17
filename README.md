@@ -20,6 +20,7 @@ Bonne découverte ! 😉
 + [LE JEU-VIDÉO, ÇA COMPTE AUSSI](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
++ [ET D'AUTRES QUI VALENT LE COUP D'OEIL](#et-dautres-qui-valent-le-coup-doeil)
 
 ---
 
