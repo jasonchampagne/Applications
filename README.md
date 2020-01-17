@@ -83,7 +83,7 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 
 ### Visionneuses de documents
 
-Pour visionner ses images, lire ses fichiers PDF ou formats de bandes dessinées.
+Pour visionner ses images, lire ses fichiers PDF ou bandes dessinées.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
