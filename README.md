@@ -36,7 +36,6 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 
 |ÉDITEUR|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Armadito**](https://www.armadito.com/fr)|Windows, GNU/Linux|GPL + LGPL|✔|
 |[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|propriétaire|❌|
 |[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|propriétaire|✔ / ❌|
