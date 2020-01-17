@@ -95,6 +95,7 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Geary**](https://wiki.gnome.org/Apps/Geary)|GNU/Linux|LGPL|✔|
+|[**Mailspring**](https://getmailspring.com)|multi|GPL|✔ / ❌|
 |[**Outlook**](https://products.office.com/fr-fr/compare-all-microsoft-office-products)|Windows, MacOS|propriétaire|❌|
 |[**Rambox**](https://rambox.pro)|multi|GPL|✔ / ❌|
 |[**Thunderbird**](https://www.thunderbird.net/fr)|multi|GPL + MPL|✔|
