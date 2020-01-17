@@ -127,6 +127,18 @@ Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres
 |[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
 |[**Uplay**](https://uplay.ubisoft.com/fr-FR)|Windows, MacOS|propriétaire|✔|
 
+### Clients de jeux
+
+Pour télécharger des jeux d'un éditeur bien spécifique.
+
+> **NOTE** : Les clients sont gratuits, mais ces derniers proposent proposent des jeux gratuits (_Free 2 Play_) ou payants.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Ankama Launcher**](https://www.ankama.com/fr/launcher)|multi|propriétaire|✔|
+|[**Battle.net**](https://www.blizzard.com/fr-fr/apps/battle.net/desktop)|Windows, MacOS|propriétaire|✔|
+|[**Glyph**](https://glyph.trionworlds.com)|Windows|propriétaire|✔|
+
 ---
 
 ## QUAND ON AIME BIDOUILLER
