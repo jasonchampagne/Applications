@@ -38,7 +38,6 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 |:--|:--|:--|:--:|
 |[**Armadito**](https://www.armadito.com/fr)|Windows, GNU/Linux|GPL + LGPL|✔|
 |[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
-|[**ClamAV**](https://www.clamav.net)|multi|GPL|✔ / ❌|
 |[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|propriétaire|❌|
 |[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|propriétaire|✔|
