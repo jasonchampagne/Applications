@@ -39,8 +39,8 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 |[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|propriétaire|❌|
 |[**Kaspersky**](https://www.kaspersky.fr/)|Windows, MacOS|propriétaire|✔ / ❌|
+|[**Microsoft**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|propriétaire|✔|
 |[**Norton**](https://fr.norton.com)|Windows, MacOS|propriétaire|❌|
-|[**Windows Defender**](https://www.microsoft.com/fr-fr/windows/comprehensive-security)|Windows|propriétaire|✔|
 
 ### Gestionnaire de mots de passe
 
