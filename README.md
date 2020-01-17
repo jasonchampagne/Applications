@@ -6,6 +6,10 @@ Je teste régulièrement différents logiciels sur PC, que je finis par utiliser
 
 Bonne découverte ! 😉
 
+**SOMMAIRE**
+
++ [QUELQUES INDISPENSABLES](##quelques-indispensables)
+
 ---
 
 ## QUELQUES INDISPENSABLES
