@@ -90,8 +90,6 @@ Pour organiser ses notes.
 
 Pour centraliser l'envoi et la réception de ses e-mails.
 
-> **NOTE** : Retrouvez aussi le service en ligne [Outlook](https://outlook.live.com) de Microsoft.
-
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Geary**](https://wiki.gnome.org/Apps/Geary)|GNU/Linux|LGPL|✔|
