@@ -120,6 +120,8 @@ Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
+|[**Gog Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
 |[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
 
 ---
