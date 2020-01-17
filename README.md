@@ -141,6 +141,7 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 |[**Arc**](https://www.arcgames.com/fr/about/client)|Windows|propriétaire|✔|
 |[**Battle.net**](https://www.blizzard.com/fr-fr/apps/battle.net/desktop)|Windows, MacOS|propriétaire|✔|
 |[**Glyph**](https://glyph.trionworlds.com)|Windows|propriétaire|✔|
+|[**Rockstar Games Launcher**](https://fr.socialclub.rockstargames.com/rockstar-games-launcher)|Windows|propriétaire|✔|
 
 ---
 
