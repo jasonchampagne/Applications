@@ -10,19 +10,19 @@ Bonne découverte ! 😉
 
 ⚪ **SOMMAIRE**
 
-+ [QUELQUES INDISPENSABLES](#quelques-indispensables)
++ [**QUELQUES INDISPENSABLES**](#quelques-indispensables)
   + [Antivirus](#antivirus)
   + [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
   + [Navigateur web](#navigateur-web)
   + [Bureautique](#bureautique)
-+ [DIFFICILE DE S'EN PASSER](#difficile-de-sen-passer)
++ [**DIFFICILE DE S'EN PASSER**](#difficile-de-sen-passer)
   + [Messagerie électronique](#messagerie-électronique)
   + [Visionneuse de documents](#visionneuses-de-documents)
   + [Prise de notes](#prise-de-notes)
-+ [LE JEU-VIDÉO, ÇA COMPTE AUSSI](#le-jeu-vidéo-ça-compte-aussi)
++ [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
-+ [ET D'AUTRES QUI VALENT LE COUP D'OEIL](#et-dautres-qui-valent-le-coup-doeil)
++ [**ET D'AUTRES QUI VALENT LE COUP D'OEIL**](#et-dautres-qui-valent-le-coup-doeil)
 
 ---
 
