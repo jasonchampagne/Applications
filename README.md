@@ -114,6 +114,14 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 
 ## LE JEU-VIDÉO, ÇA COMPTE AUSSI
 
+### Plateformes de distribution
+
+Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres et gérer ces derniers depuis un même espace.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
+
 ---
 
 ## QUAND ON AIME BIDOUILLER
