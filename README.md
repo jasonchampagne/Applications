@@ -73,19 +73,6 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 ## DIFFICILE DE S'EN PASSER
 
-### Prise de notes
-
-Pour organiser ses notes.
-
-> **NOTE** : Sans installation requise, vous pouvez vous servir du service [Keep](https://keep.google.com) de Google.
-
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
-|:--|:--|:--|:--:|
-|[**Evernote**](https://evernote.com/intl/fr)|multi|propriétaire|✔ / ❌|
-|[**Notable**](https://notable.md)|multi|propriétaire|✔|
-|[**OneNote**](https://products.office.com/fr-fr/onenote)|Windows, MacOS|propriétaire|❌|
-|[**SimpleNote**](https://simplenote.com)|multi|propriétaire|✔|
-
 ### Messagerie électronique
 
 Pour centraliser l'envoi et la réception de ses e-mails.
@@ -109,6 +96,19 @@ Pour visionner ses images, lire ses fichiers PDF ou formats de bandes dessinées
 |[**Foxit Reader**](https://www.foxitsoftware.com/pdf-reader)|multi|propriétaire|✔|
 |[**Sumatra PDF**](https://www.sumatrapdfreader.org)|Windows|GPL|✔|
 |[**Xnview**](https://www.xnview.com/fr)|multi|propriétaire|✔|
+
+### Prise de notes
+
+Pour organiser ses notes.
+
+> **NOTE** : Sans installation requise, vous pouvez vous servir du service [Keep](https://keep.google.com) de Google.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Evernote**](https://evernote.com/intl/fr)|multi|propriétaire|✔ / ❌|
+|[**Notable**](https://notable.md)|multi|propriétaire|✔|
+|[**OneNote**](https://products.office.com/fr-fr/onenote)|Windows, MacOS|propriétaire|❌|
+|[**SimpleNote**](https://simplenote.com)|multi|propriétaire|✔|
 
 ---
 
