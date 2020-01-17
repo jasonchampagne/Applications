@@ -95,6 +95,7 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Outlook**](https://products.office.com/fr-fr/compare-all-microsoft-office-products)|Windows, MacOS|propriétaire|❌|
+|[**Rambox**](https://rambox.pro)|multi|GPL|✔ / ❌|
 |[**Thunderbird**](https://www.thunderbird.net/fr)|multi|GPL + MPL|✔|
 
 ---
