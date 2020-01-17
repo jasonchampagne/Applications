@@ -66,7 +66,7 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 |:--|:--|:--|:--:|
 |[**FreeOffice**](https://www.freeoffice.com/fr)|multi|freeware|✔|
 |[**LibreOffice**](https://fr.libreoffice.org)|multi|MPL|✔|
-|[**MS Office**](https://www.office.com)|Windows, MacOS|propriétaire|❌|
+|[**Office**](https://www.office.com)|Windows, MacOS|propriétaire|❌|
 |[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|AGPL ou SaaS|✔|
 
 ---
@@ -94,6 +94,7 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Outlook**](https://products.office.com/fr-fr/compare-all-microsoft-office-products)|Windows, MacOS|propriétaire|❌|
 |[**Thunderbird**](https://www.thunderbird.net/fr)|multi|GPL + MPL|✔|
 
 ---
