@@ -131,7 +131,7 @@ Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres
 
 Pour télécharger des jeux d'un éditeur bien spécifique.
 
-> **NOTE** : Les clients sont gratuits, mais ces derniers proposent proposent des jeux gratuits (_Free 2 Play_) ou payants.
+> **NOTE** : Les clients sont disponibles gratuitement, mais ces derniers proposent des jeux gratuits (_Free 2 Play_) ou payants.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
