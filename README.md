@@ -13,6 +13,13 @@ Bonne découverte ! 😉
   + [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
   + [Navigateur web](#navigateur-web)
   + [Bureautique](#bureautique)
++ [DIFFICILE DE S'EN PASSER](#difficile-de-sen-passer)
+  + [Messagerie électronique](#messagerie-électronique)
+  + [Visionneuse de documents](#visionneuses-de-documents)
+  + [Prise de notes](#prise-de-notes)
++ [LE JEU-VIDÉO, ÇA COMPTE AUSSI](#le-jeu-vidéo-ça-compte-aussi)
+  + [Plateformes de distribution](#plateformes-de-distribution)
+  + [Client de jeux](#clients-de-jeux)
 
 ---
 
