@@ -8,7 +8,7 @@ Bonne découverte ! 😉
 
 **SOMMAIRE**
 
-+ [QUELQUES INDISPENSABLES](##quelques-indispensables)
++ [QUELQUES INDISPENSABLES](#quelques-indispensables)
 
 ---
 
