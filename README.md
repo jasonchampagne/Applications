@@ -51,9 +51,9 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|multi|MPL|✔|
-|[**Chrome**](https://www.google.com/chrome)|multi|freeware|✔|
+|[**Chrome**](https://www.google.com/chrome)|multi|propriétaire|✔|
 |[**Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|GPL + LGPL + MPL|✔|
-|[**Opera**](https://www.opera.com/fr)|multi|freeware + open-source|✔|
+|[**Opera**](https://www.opera.com/fr)|multi|propriétaire + open-source|✔|
 |[**Vivaldi**](https://vivaldi.com/fr)|multi|BSD + propriétaire|✔|
 
 ### Bureautique
@@ -64,7 +64,7 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**FreeOffice**](https://www.freeoffice.com/fr)|multi|freeware|✔|
+|[**FreeOffice**](https://www.freeoffice.com/fr)|multi|propriétaire|✔|
 |[**LibreOffice**](https://fr.libreoffice.org)|multi|MPL|✔|
 |[**Office**](https://www.office.com)|Windows, MacOS|propriétaire|❌|
 |[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|AGPL ou SaaS|✔|
