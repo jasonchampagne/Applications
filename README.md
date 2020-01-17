@@ -122,6 +122,7 @@ Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres
 |:--|:--|:--|:--:|
 |[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
+|[**Lutris**](https://lutris.net)|GNU/Linux|GPL|✔|
 |[**Origin**](https://www.origin.com/fra/fr-fr/store/download)|Windows|propriétaire|✔|
 |[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
 |[**Uplay**](https://uplay.ubisoft.com/fr-FR)|Windows, MacOS|propriétaire|✔|
