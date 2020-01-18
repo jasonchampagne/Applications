@@ -153,7 +153,7 @@ Pour regarder ses émissions TV ou télécharger en local des replays.
 
 ## Client de streaming
 
-Pour visionner tout contenu hébergé en ligne depuis une même application (ex : Amazon Prime, Netflix, Youtube, Twitch).
+Pour visionner tout contenu hébergé en ligne depuis une même application (ex : Amazon Prime, MyTF1, Netflix, Orange VOD, Youtube, Twitch).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
