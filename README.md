@@ -150,6 +150,14 @@ Pour regarder ses émissions TV ou télécharger en local des replays.
 |[**Captvty**](https://captvty.fr)|Windows|propriétaire|✔|
 |[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
 
+## Client de streaming
+
+Pour visionner tout contenu hébergé en ligne depuis une même application (ex : Amazon Prime, Netflix, Youtube, Twitch).
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Stremio**](https://www.stremio.com/fr)|multi|GPL|✔|
+
 ---
 
 ## DES OUTILS DE DÉVELOPPEUR
