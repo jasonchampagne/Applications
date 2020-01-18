@@ -127,6 +127,14 @@ Pour organiser ses notes.
 
 ## UN MOMENT POUR SE DÉTENDRE
 
+## Lecture audio/vidéo
+
+Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**VLC Media Player**](https://www.videolan.org/vlc)|multi|GPL + LGPL|✔|
+
 ---
 
 ## DES OUTILS DE DÉVELOPPEUR
