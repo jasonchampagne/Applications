@@ -20,7 +20,7 @@ Bonne découverte ! 😉
   + [Visionneuse de documents](#visionneuses-de-documents)
   + [Prise de notes](#prise-de-notes)
 + [**UN MOMENT POUR SE DÉTENDRE**](#un-moment-pour-se-détendre)
-  + [Lecture audio/vidéo](#lecture-audio-vidéo)
+  + [Lecture audio/vidéo](#lecture-audiovidéo)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
