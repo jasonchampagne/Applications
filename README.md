@@ -135,6 +135,9 @@ Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**MPlayer**](http://mplayerhq.hu/design7/news.html)|multi|GPL|✔|
+|[**MPV**](https://mpv.io)|multi|GPL|✔|
+|[**SMPlayer**](https://www.smplayer.info)|Windows, GNU/Linux|GPL|✔|
 |[**VLC Media Player**](https://www.videolan.org/vlc)|multi|GPL + LGPL|✔|
 
 ---
