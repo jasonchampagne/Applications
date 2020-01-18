@@ -19,6 +19,8 @@ Bonne découverte ! 😉
   + [Messagerie électronique](#messagerie-électronique)
   + [Visionneuse de documents](#visionneuses-de-documents)
   + [Prise de notes](#prise-de-notes)
++ [UN MOMENT POUR SE DÉTENDRE](#un-moment-pour-se-detendre)
+  + [Lecture audio/vidéo](#lecture-audio-video)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
