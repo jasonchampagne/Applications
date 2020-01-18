@@ -131,10 +131,11 @@ Pour organiser ses notes.
 
 ## Lecture audio/vidéo
 
-Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo.
+Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo (films, streaming, TV).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
 |[**MPlayer**](http://mplayerhq.hu/design7/news.html)|multi|GPL|✔|
 |[**MPV**](https://mpv.io)|multi|GPL|✔|
 |[**SMPlayer**](https://www.smplayer.info)|Windows, GNU/Linux|GPL|✔|
