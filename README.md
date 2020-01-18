@@ -21,6 +21,7 @@ Bonne découverte ! 😉
   + [Prise de notes](#prise-de-notes)
 + [**UN MOMENT POUR SE DÉTENDRE**](#un-moment-pour-se-détendre)
   + [Lecture audio/vidéo](#lecture-audiovidéo)
+  + [Service de chaînes télévisées](#service-de-chaînes-télévisées)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
