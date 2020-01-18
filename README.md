@@ -181,6 +181,7 @@ Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
 |[**Lutris**](https://lutris.net)|GNU/Linux|GPL|✔|
 |[**Origin**](https://www.origin.com/fra/fr-fr/store/download)|Windows|propriétaire|✔|
+|[**Playnite**](https://playnite.link)|Windows|MIT|✔|
 |[**PlayStation Now**](https://www.playstation.com/fr-fr/explore/playstation-now/ps-now-on-pc)|Windows|propriétaire|✔|
 |[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
 |[**Uplay**](https://uplay.ubisoft.com/fr-FR)|Windows, MacOS|propriétaire|✔|
