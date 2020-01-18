@@ -135,12 +135,19 @@ Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo (f
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Captvty**](https://captvty.fr)|Windows|propriétaire|✔|
-|[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
 |[**MPlayer**](http://mplayerhq.hu/design7/news.html)|multi|GPL|✔|
 |[**MPV**](https://mpv.io)|multi|GPL|✔|
 |[**SMPlayer**](https://www.smplayer.info)|Windows, GNU/Linux|GPL|✔|
 |[**VLC Media Player**](https://www.videolan.org/vlc)|multi|GPL + LGPL|✔|
+
+## Service de chaînes télévisées
+
+Pour regarder ses émissions TV ou télécharger en local des replays.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Captvty**](https://captvty.fr)|Windows|propriétaire|✔|
+|[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
 
 ---
 
