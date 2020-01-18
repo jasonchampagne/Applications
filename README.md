@@ -135,6 +135,7 @@ Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo (f
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Captvty**](https://captvty.fr)|Windows|propriétaire|✔|
 |[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
 |[**MPlayer**](http://mplayerhq.hu/design7/news.html)|multi|GPL|✔|
 |[**MPV**](https://mpv.io)|multi|GPL|✔|
