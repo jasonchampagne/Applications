@@ -212,5 +212,6 @@ Une liste en vrac d'applications diverses et variées...
 
 + [CDBurnerXP](https://www.cdburnerxp.se/?lang=fr)
 + [CryptoTab](https://cryptotab.net/fr)
-+ [SMPlayer](https://www.smplayer.info/fr/info)
++ [Kodi](https://kodi.tv)
 + [Sweet Home 3D](http://sweethome3d.com/fr)
++ [WebTorrent](https://webtorrent.io)
