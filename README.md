@@ -117,6 +117,7 @@ Pour organiser ses notes.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Abricotine**](http://abricotine.brrd.fr)|multi|GPL|✔|
 |[**Evernote**](https://evernote.com/intl/fr)|multi|propriétaire|✔ / ❌|
 |[**Notable**](https://notable.md)|multi|propriétaire|✔|
 |[**OneNote**](https://products.office.com/fr-fr/onenote)|Windows, MacOS|propriétaire|❌|
