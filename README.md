@@ -28,7 +28,7 @@ Bonne découverte ! 😉
   + [Environnements de développement](#environnements-de-développement)
   + [Moteurs de jeux](#moteurs-de-jeux)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
-  + [Émulateurs](#emulateurs)
+  + [Émulateurs](#émulateurs)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
 + [**ET D'AUTRES QUI VALENT LE COUP D'OEIL**](#et-dautres-qui-valent-le-coup-doeil)
