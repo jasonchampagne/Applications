@@ -164,6 +164,18 @@ Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même 
 
 ## DES OUTILS POUR DÉVELOPPEUR
 
+### Éditeurs de code
+
+Pour coder vos programmes en profitant de la coloration syntaxique et de quelques modules configurables, ou même servir de simple éditeur de texte.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Visual Studio Code**](https://code.visualstudio.com)|multi|MIT + propriétaire|✔|
+
+### Environnements de développement
+
+### Moteurs de jeux
+
 ---
 
 ## N'OUBLIONS PAS LES ARTISTES
