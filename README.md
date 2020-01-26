@@ -28,9 +28,9 @@ Bonne découverte ! 😉
   + [Environnements de développement](#environnements-de-développement)
   + [Moteurs de jeux](#moteurs-de-jeux)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
-  + [Émulateurs](#émulateurs)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
+  + [Émulateurs](#émulateurs)
 + [**ET D'AUTRES QUI VALENT LE COUP D'OEIL**](#et-dautres-qui-valent-le-coup-doeil)
 
 ---
@@ -213,20 +213,6 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 
 ## LE JEU-VIDÉO, ÇA COMPTE AUSSI
 
-### Émulateurs
-
-Pour jouer à vos copies de jeux sur console.
-
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
-|:--|:--|:--|:--:|
-|[**Bsnes**](https://byuu.org/bsnes)|Windows|GPL|✔|
-|[**DeSmuME**](http://desmume.org)|multi|GPL|✔|
-|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|multi|GPL|✔|
-|[**ePSXe**](http://www.epsxe.com)|multi|propriétaire|✔|
-|[**mGBA**](https://mgba.io)|multi|MPL|✔|
-|[**PCSX2**](https://pcsx2.net)|multi|GPL|✔|
-|[**PPSSPP**](https://www.ppsspp.org)|multi|GPL|✔|
-
 ### Plateformes de distribution
 
 Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres et gérer ces derniers depuis un même espace.
@@ -257,6 +243,20 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 |[**Glyph**](https://glyph.trionworlds.com)|Windows|propriétaire|✔|
 |[**My.games**](https://store.my.games)|Windows|propriétaire|✔|
 |[**Rockstar Games Launcher**](https://fr.socialclub.rockstargames.com/rockstar-games-launcher)|Windows|propriétaire|✔|
+
+### Émulateurs
+
+Pour jouer à vos copies de jeux sur console.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Bsnes**](https://byuu.org/bsnes)|Windows|GPL|✔|
+|[**DeSmuME**](http://desmume.org)|multi|GPL|✔|
+|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|multi|GPL|✔|
+|[**ePSXe**](http://www.epsxe.com)|multi|propriétaire|✔|
+|[**mGBA**](https://mgba.io)|multi|MPL|✔|
+|[**PCSX2**](https://pcsx2.net)|multi|GPL|✔|
+|[**PPSSPP**](https://www.ppsspp.org)|multi|GPL|✔|
 
 ---
 
