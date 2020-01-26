@@ -248,15 +248,15 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 
 Pour jouer à vos copies de jeux sur console.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
-|:--|:--|:--|:--:|
-|[**Bsnes**](https://byuu.org/bsnes)|Windows|GPL|✔|
-|[**DeSmuME**](http://desmume.org)|multi|GPL|✔|
-|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|multi|GPL|✔|
-|[**ePSXe**](http://www.epsxe.com)|multi|propriétaire|✔|
-|[**mGBA**](https://mgba.io)|multi|MPL|✔|
-|[**PCSX2**](https://pcsx2.net)|multi|GPL|✔|
-|[**PPSSPP**](https://www.ppsspp.org)|multi|GPL|✔|
+|LOGICIEL|CONSOLE ÉMULÉE|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--|:--:|
+|[**Bsnes**](https://byuu.org/bsnes)|Super Nintendo|Windows|GPL|✔|
+|[**DeSmuME**](http://desmume.org)|Nintendo DS|multi|GPL|✔|
+|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GameCube + Wii|multi|GPL|✔|
+|[**ePSXe**](http://www.epsxe.com)|PlayStation 1|multi|propriétaire|✔|
+|[**mGBA**](https://mgba.io)|GameBoy (Advance)|multi|MPL|✔|
+|[**PCSX2**](https://pcsx2.net)|PlayStation 2|multi|GPL|✔|
+|[**PPSSPP**](https://www.ppsspp.org)|PlayStation Portable|multi|GPL|✔|
 
 ---
 
