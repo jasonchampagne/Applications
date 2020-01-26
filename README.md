@@ -162,7 +162,7 @@ Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même 
 
 ---
 
-## DES OUTILS DE DÉVELOPPEUR
+## DES OUTILS POUR DÉVELOPPEUR
 
 ---
 
