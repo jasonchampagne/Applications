@@ -250,15 +250,15 @@ Pour jouer à vos copies de jeux sur console.
 
 |LOGICIEL|CONSOLE ÉMULÉE|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--|:--:|
-|[**Bsnes**](https://byuu.org/bsnes)|Super Nintendo|Windows|GPL|✔|
-|[**Cemu**](http://cemu.info/index.html)|Nintendo Wii U|Windows|propriétaire|✔|
-|[**DeSmuME**](http://desmume.org)|Nintendo DS|multi|GPL|✔|
-|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GameCube + Wii|multi|GPL|✔|
-|[**ePSXe**](http://www.epsxe.com)|PlayStation 1|multi|propriétaire|✔|
+|[**Bsnes**](https://byuu.org/bsnes)|SNES|Windows|GPL|✔|
+|[**Cemu**](http://cemu.info/index.html)|Wii U|Windows|propriétaire|✔|
+|[**DeSmuME**](http://desmume.org)|DS|multi|GPL|✔|
+|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GC + Wii|multi|GPL|✔|
+|[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
-|[**mGBA**](https://mgba.io)|GameBoy (Advance)|multi|MPL|✔|
-|[**PCSX2**](https://pcsx2.net)|PlayStation 2|multi|GPL|✔|
-|[**PPSSPP**](https://www.ppsspp.org)|PlayStation Portable|multi|GPL|✔|
+|[**mGBA**](https://mgba.io)|GB/GBC/GBA|multi|MPL|✔|
+|[**PCSX2**](https://pcsx2.net)|PS2|multi|GPL|✔|
+|[**PPSSPP**](https://www.ppsspp.org)|PSP|multi|GPL|✔|
 
 ---
 
