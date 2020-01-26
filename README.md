@@ -182,7 +182,17 @@ Pour coder vos programmes en profitant de la coloration syntaxique et de quelque
 
 ### Environnements de développement
 
+Pour développer des projets conséquents et/ou disposer d'un ensemble plus fourni de modules et outils pour l'édition de code, la compilation, le débogage ou même les tests et le profilage.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Eclipse**](https://www.eclipse.org)|multi|EPL|✔|
+|[**Netbeans**](http://netbeans.apache.org)|multi|Apache|✔|
+|[**Visual Studio**](https://visualstudio.microsoft.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
+
 ### Moteurs de jeux
+
+Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des langages orientés web, avec export sur plusieurs plateformes.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
