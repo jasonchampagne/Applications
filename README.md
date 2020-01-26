@@ -251,6 +251,7 @@ Pour jouer à vos copies de jeux sur console.
 |LOGICIEL|CONSOLE ÉMULÉE|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--|:--:|
 |[**Bsnes**](https://byuu.org/bsnes)|Super Nintendo|Windows|GPL|✔|
+|[**Cemu**](http://cemu.info/index.html)|Nintendo Wii U|Windows|propriétaire|✔|
 |[**DeSmuME**](http://desmume.org)|Nintendo DS|multi|GPL|✔|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GameCube + Wii|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PlayStation 1|multi|propriétaire|✔|
