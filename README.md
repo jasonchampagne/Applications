@@ -254,6 +254,7 @@ Pour jouer à vos copies de jeux sur console.
 |[**DeSmuME**](http://desmume.org)|Nintendo DS|multi|GPL|✔|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GameCube + Wii|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PlayStation 1|multi|propriétaire|✔|
+|[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
 |[**mGBA**](https://mgba.io)|GameBoy (Advance)|multi|MPL|✔|
 |[**PCSX2**](https://pcsx2.net)|PlayStation 2|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|PlayStation Portable|multi|GPL|✔|
