@@ -256,6 +256,7 @@ Pour jouer à vos copies de jeux sur console.
 |[**Cemu**](http://cemu.info/index.html)|Wii U|Windows|propriétaire|✔|
 |[**DeSmuME**](http://desmume.org)|DS|multi|GPL|✔|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GC + Wii|multi|GPL|✔|
+|[**DOSBox**](https://www.dosbox.com)|DOS|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
 |[**mGBA**](https://mgba.io)|GB(C) + GBA|multi|MPL|✔|
