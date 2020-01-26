@@ -187,7 +187,7 @@ Pour coder vos programmes en profitant de la coloration syntaxique et de quelque
 |:--|:--|:--|:--:|
 |[**CryENGINE**](https://www.cryengine.com)|Windows|propriétaire|✔|
 |[**Unity**](https://unity.com/fr)|multi|propriétaire|✔|
-|[**Unreal Engine**](https://www.unrealengine.com)|multi|Open-source|✔|
+|[**Unreal Engine**](https://www.unrealengine.com)|multi|open-source|✔|
 
 ---
 
