@@ -219,6 +219,7 @@ Pour jouer à vos copies de jeux sur console.
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Bsnes**](https://byuu.org/bsnes)|Windows|GPL|✔|
 |[**DeSmuME**](http://desmume.org)|multi|GPL|✔|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|multi|propriétaire|✔|
