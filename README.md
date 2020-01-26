@@ -28,6 +28,7 @@ Bonne découverte ! 😉
   + [Environnements de développement](#environnements-de-développement)
   + [Moteurs de jeux](#moteurs-de-jeux)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
+  + [Émulateurs](#emulateurs)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
 + [**ET D'AUTRES QUI VALENT LE COUP D'OEIL**](#et-dautres-qui-valent-le-coup-doeil)
@@ -211,6 +212,16 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 ---
 
 ## LE JEU-VIDÉO, ÇA COMPTE AUSSI
+
+### Émulateurs
+
+Pour jouer à vos copies de jeux sur console.
+
+|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|multi|GPL|✔|
+|[**mGBA**](https://mgba.io)|multi|MPL|✔|
+|[**PPSSPP**](https://www.ppsspp.org)|multi|GPL|✔|
 
 ### Plateformes de distribution
 
