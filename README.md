@@ -22,7 +22,7 @@ Bonne découverte ! 😉
 + [**UN MOMENT POUR SE DÉTENDRE**](#un-moment-pour-se-détendre)
   + [Lecture audio/vidéo](#lecture-audiovidéo)
   + [Service de chaînes télévisées](#service-de-chaînes-télévisées)
-  + [Client de streaming](#client-de-streaming)
+  + [Centre de médias/streaming](#client-de-streaming)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
@@ -151,9 +151,9 @@ Pour regarder ses émissions TV ou télécharger en local des replays.
 |[**Captvty**](https://captvty.fr)|Windows|propriétaire|✔|
 |[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
 
-## Client de streaming
+## Centre de médias/streaming
 
-Pour visionner tout contenu hébergé en ligne depuis une même application (ex : Amazon Prime, MyTF1, Netflix, Orange VOD, Youtube, Twitch).
+Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même application (ex : Amazon Prime, MyTF1, Netflix, Orange VOD, Youtube, Twitch).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
