@@ -173,6 +173,7 @@ Pour coder vos programmes en profitant de la coloration syntaxique et de quelque
 |:--|:--|:--|:--:|
 |[**Atom**](https://atom.io)|multi|MIT|✔|
 |[**Brackets**](http://brackets.io)|multi|MIT|✔|
+|[**Emacs**](https://www.gnu.org/software/emacs/emacs.html)|multi|GPL|✔|
 |[**Notepad++**](https://notepad-plus-plus.org)|Windows|GPL|✔|
 |[**Sublime Text**](https://www.sublimetext.com)|multi|propriétaire|✔|
 |[**Visual Studio Code**](https://code.visualstudio.com)|multi|MIT + propriétaire|✔|
