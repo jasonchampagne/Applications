@@ -186,8 +186,9 @@ Pour coder vos programmes en profitant de la coloration syntaxique et de quelque
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**CryENGINE**](https://www.cryengine.com)|Windows|propriétaire|✔|
+|[**Godot**](https://godotengine.org)|multi|MIT|✔|
 |[**Unity**](https://unity.com/fr)|multi|propriétaire|✔|
-|[**Unreal Engine**](https://www.unrealengine.com)|multi|open-source|✔|
+|[**Unreal Engine**](https://www.unrealengine.com)|Windows|open-source|✔|
 
 ---
 
