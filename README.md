@@ -220,7 +220,9 @@ Pour jouer à vos copies de jeux sur console.
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|multi|GPL|✔|
+|[**ePSXe**](http://www.epsxe.com)|multi|propriétaire|✔|
 |[**mGBA**](https://mgba.io)|multi|MPL|✔|
+|[**PCSX2**](https://pcsx2.net)|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|multi|GPL|✔|
 
 ### Plateformes de distribution
