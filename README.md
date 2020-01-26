@@ -24,6 +24,7 @@ Bonne découverte ! 😉
   + [Service de chaînes télévisées](#service-de-chaînes-télévisées)
   + [Centre de médias/streaming](#centre-de-médiasstreaming)
 + [**DES OUTILS POUR DÉVELOPPEUR**](#des-outils-pour-développeur)
+  + [Éditeurs de code](#éditeurs-de-code)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
