@@ -256,7 +256,7 @@ Pour jouer à vos copies de jeux sur console.
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GC + Wii|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
-|[**mGBA**](https://mgba.io)|GB/GBC/GBA|multi|MPL|✔|
+|[**mGBA**](https://mgba.io)|GB(C) + GBA|multi|MPL|✔|
 |[**PCSX2**](https://pcsx2.net)|PS2|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|PSP|multi|GPL|✔|
 
