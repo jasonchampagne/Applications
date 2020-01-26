@@ -254,6 +254,7 @@ Pour jouer à vos copies de jeux sur console.
 |:--|:--|:--|:--|:--:|
 |[**Bsnes**](https://byuu.org/bsnes)|SNES|Windows|GPL|✔|
 |[**Cemu**](http://cemu.info/index.html)|Wii U|Windows|propriétaire|✔|
+|[**Citra**](https://citra-emu.org)|3DS|multi|GPL|✔|
 |[**DeSmuME**](http://desmume.org)|DS|multi|GPL|✔|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GC + Wii|multi|GPL|✔|
 |[**DOSBox**](https://www.dosbox.com)|DOS|multi|GPL|✔|
