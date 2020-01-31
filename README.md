@@ -114,6 +114,7 @@ Pour visionner ses images, lire ses fichiers PDF ou bandes dessinées.
 |:--|:--|:--|:--:|
 |[**Acrobat Reader DC**](https://get.adobe.com/reader/?loc=fr)|Windows, MacOS|propriétaire|✔|
 |[**Calibre**](https://calibre-ebook.com)|multi|GPL|✔|
+|[**IrfanView**](https://www.irfanview.com)|Windows|propriétaire|✔|
 |[**Foxit Reader**](https://www.foxitsoftware.com/pdf-reader)|multi|propriétaire|✔|
 |[**Sumatra PDF**](https://www.sumatrapdfreader.org)|Windows|GPL|✔|
 |[**Xnview**](https://www.xnview.com/fr)|multi|propriétaire|✔|
