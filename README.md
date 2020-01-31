@@ -246,9 +246,7 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 
 ### Émulateurs
 
-Pour jouer à vos copies de jeux sur console.
-
-> **NOTE** : Est légal le fait d'utiliser un émulateur pour exécuter vos propres copies de jeux (ROMs, ISOs, ...)
+Pour jouer à vos copies de jeux vidéo.
 
 |LOGICIEL|CONSOLE ÉMULÉE|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--|:--:|
