@@ -216,7 +216,7 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 
 ### Plateformes de distribution
 
-Pour retrouver sa bibliothèque de jeux vidéo, faire l'achat de nouveaux titres et gérer ces derniers depuis un même espace.
+Pour jouer à ses jeux en local ou en streaming (via un service auto-hébergé ou en ligne).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
