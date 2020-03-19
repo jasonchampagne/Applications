@@ -167,6 +167,7 @@ Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même 
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Jellyfin**](https://jellyfin.org/)|multi|GPL|✔|
 |[**Kodi**](https://kodi.tv/)|multi|GPL|✔|
 |[**Stremio**](https://www.stremio.com/)|multi|GPL|✔|
 |[**WebTorrent**](https://webtorrent.io/)|multi|MIT|✔|
