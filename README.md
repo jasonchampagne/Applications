@@ -269,6 +269,7 @@ Pour jouer à vos copies de jeux vidéo.
 |[**DOSBox**](https://www.dosbox.com)|DOS|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
+|[**LDPlayer**](https://fr.ldplayer.net/)|Android|Windows|propriétaire|✔|
 |[**MEmu Play**](https://www.memuplay.com/)|Android|Windows|propriétaire|✔|
 |[**mGBA**](https://mgba.io)|GB(C) + GBA|multi|MPL|✔|
 |[**NoxPlayer**](https://fr.bignox.com/)|Android|Windows, MacOS|propriétaire|✔|
