@@ -76,6 +76,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |[**Edge**](https://www.microsoft.com/fr-fr/edge)|Windows, MacOS|propriétaire|✔|
 |[**Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|GPL + LGPL + MPL|✔|
 |[**Opera**](https://www.opera.com/fr)|multi|propriétaire + open-source|✔|
+|[**Opera GX**](https://www.opera.com/fr/gx)|Windows, MacOS|propriétaire|✔|
 |[**Vivaldi**](https://vivaldi.com/fr)|multi|BSD + propriétaire|✔|
 
 ### Bureautique
