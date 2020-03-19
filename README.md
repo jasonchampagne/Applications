@@ -260,6 +260,7 @@ Pour jouer à vos copies de jeux vidéo.
 
 |LOGICIEL|CONSOLE ÉMULÉE|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--|:--:|
+|[**Bluestacks**](https://www.bluestacks.com/fr/index.html)|Windows, MacOS|propriétaire|✔|
 |[**Bsnes**](https://byuu.org/bsnes)|SNES|Windows|GPL|✔|
 |[**Cemu**](http://cemu.info/index.html)|Wii U|Windows|propriétaire|✔|
 |[**Citra**](https://citra-emu.org)|3DS|multi|GPL|✔|
@@ -268,7 +269,9 @@ Pour jouer à vos copies de jeux vidéo.
 |[**DOSBox**](https://www.dosbox.com)|DOS|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
+|[**MEmu Play**](https://www.memuplay.com/)|Windows|propriétaire|✔|
 |[**mGBA**](https://mgba.io)|GB(C) + GBA|multi|MPL|✔|
+|[**NoxPlayer**](https://fr.bignox.com/)|Windows, MacOS|propriétaire|✔|
 |[**PCSX2**](https://pcsx2.net)|PS2|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|PSP|multi|GPL|✔|
 
