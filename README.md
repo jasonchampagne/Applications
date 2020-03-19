@@ -27,6 +27,7 @@ Bonne découverte ! 😉
   + [Éditeurs de code](#éditeurs-de-code)
   + [Environnements de développement](#environnements-de-développement)
   + [Moteurs de jeux](#moteurs-de-jeux)
++ [**N'OUBLIONS PAS LES ARTISTES**](#noublions-pas-les-artistes)
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
