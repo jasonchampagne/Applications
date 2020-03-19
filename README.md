@@ -165,6 +165,7 @@ Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même 
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Kodi**](https://kodi.tv/)|multi|GPL|✔|
 |[**Stremio**](https://www.stremio.com/)|multi|GPL|✔|
 
 ---
@@ -278,6 +279,5 @@ Une liste en vrac d'applications diverses et variées...
 
 + [CDBurnerXP](https://www.cdburnerxp.se/?lang=fr)
 + [CryptoTab](https://cryptotab.net/fr)
-+ [Kodi](https://kodi.tv)
 + [Sweet Home 3D](http://sweethome3d.com/fr)
 + [WebTorrent](https://webtorrent.io)
