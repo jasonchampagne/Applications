@@ -165,7 +165,7 @@ Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même 
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Stremio**](https://www.stremio.com/fr)|multi|GPL|✔|
+|[**Stremio**](https://www.stremio.com/)|multi|GPL|✔|
 
 ---
 
