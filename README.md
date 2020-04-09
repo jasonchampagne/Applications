@@ -28,11 +28,13 @@ Bonne découverte ! 😉
   + [Environnements de développement](#environnements-de-développement)
   + [Moteurs de jeux](#moteurs-de-jeux)
 + [**N'OUBLIONS PAS LES ARTISTES**](#noublions-pas-les-artistes)
+  + à venir
 + [**LE JEU-VIDÉO, ÇA COMPTE AUSSI**](#le-jeu-vidéo-ça-compte-aussi)
   + [Plateformes de distribution](#plateformes-de-distribution)
   + [Client de jeux](#clients-de-jeux)
   + [Émulateurs](#émulateurs)
 + [**QUAND ON AIME BIDOUILLER**](#quand-on-aime-bidouiller)
+  + à venir
 + [**ET D'AUTRES QUI VALENT LE COUP D'OEIL**](#et-dautres-qui-valent-le-coup-doeil)
 
 ---
