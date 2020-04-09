@@ -218,6 +218,8 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 
 ## N'OUBLIONS PAS LES ARTISTES
 
+À venir...
+
 ---
 
 ## LE JEU-VIDÉO, ÇA COMPTE AUSSI
@@ -279,6 +281,8 @@ Pour jouer à vos copies de jeux vidéo.
 ---
 
 ## QUAND ON AIME BIDOUILLER
+
+À venir...
 
 ---
 
