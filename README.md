@@ -165,12 +165,13 @@ Pour regarder ses émissions TV ou télécharger en local des replays.
 
 ## Centre de médias/streaming
 
-Pour visionner vos médias, ou tout contenu hébergé en ligne depuis une même application (ex : Amazon Prime, MyTF1, Netflix, Orange VOD, Youtube, Twitch).
+Pour vos médias et/ou contenus hébergés en ligne depuis une même application (ex : Amazon Prime, MyTF1, Netflix, Orange VOD, Youtube, Twitch).
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Jellyfin**](https://jellyfin.org/)|multi|GPL|✔|
 |[**Kodi**](https://kodi.tv/)|multi|GPL|✔|
+|[**Spotify**](https://www.spotify.com/fr/)|multi|propriétaire|✔ / ❌|
 |[**Stremio**](https://www.stremio.com/)|multi|GPL|✔|
 |[**WebTorrent**](https://webtorrent.io/)|multi|MIT|✔|
 
