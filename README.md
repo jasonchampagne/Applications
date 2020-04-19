@@ -169,6 +169,7 @@ Pour vos médias et/ou contenus hébergés en ligne depuis une même application
 
 |LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Deezer**](https://www.deezer.com/fr/)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**Jellyfin**](https://jellyfin.org/)|multi|GPL|✔|
 |[**Kodi**](https://kodi.tv/)|multi|GPL|✔|
 |[**Spotify**](https://www.spotify.com/fr/)|multi|propriétaire|✔ / ❌|
