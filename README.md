@@ -1,4 +1,4 @@
-# FindMySoftware
+# FindMyDesktopSoftware
 
 Je teste régulièrement différents logiciels sur PC, que je finis par utiliser au quotidien pour certains. Je vous propose ci-dessous, une liste de différentes applications et utilitaires que vous pouvez essayer de votre côté :
 
