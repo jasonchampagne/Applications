@@ -58,7 +58,7 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 
 Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'un unique mot de passe (et complexe) pour chaque compte utilisateur.
 
-> **NOTE** : Des applications mobiles existent pour gérer votre coffre-fort et vous connecter également sur vos smartphones et tablettes en toute sécurité. Certains gestionnaires proposent également une synchronisation en ligne.
+> **NOTE** : Certains gestionnaires proposent une synchronisation de votre base en ligne.
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
