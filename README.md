@@ -9,7 +9,6 @@ Bonne découverte ! 😉
 ---
 
 🖥 **SOMMAIRE**
-
 + [**QUELQUES INDISPENSABLES**](#quelques-indispensables)
   + [Antivirus](#antivirus)
   + [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
