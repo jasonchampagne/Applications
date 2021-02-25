@@ -46,7 +46,7 @@ Pour sécuriser son système et éviter l'accès à certains liens malveillants,
 
 > **NOTE** : À moins d'être une entreprise assez conséquente, il n'est pas utile d'investir dans une solution payante et coûteuse. Beaucoup d'éditeurs proposent une version gratuite qui offre déjà une très bonne protection. De plus, s'il ne cause pas de ralentissements sur votre système, l'antivirus de Windows (Defender) est suffisant.
 
-|ÉDITEUR|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Avira**](https://www.avira.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**F-Secure**](https://www.f-secure.com/fr)|Windows, MacOS|propriétaire|❌|
@@ -60,7 +60,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 > **NOTE** : Des applications mobiles existent pour gérer votre coffre-fort et vous connecter également sur vos smartphones et tablettes en toute sécurité. Certains gestionnaires proposent également une synchronisation en ligne.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Bitwarden**](https://bitwarden.com)|multi|AGPL + GPL|✔ / ❌|
 |[**KeePassXC**](https://keepassxc.org)|multi|GPL|✔|
@@ -72,7 +72,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 > **NOTE** : Majoritairement, un navigateur peut lire vos médias et vos documents PDF. D'autres intègrent certains outils comme un [VPN](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel).
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|multi|MPL|✔|
 |[**Chrome**](https://www.google.com/chrome)|multi|propriétaire|✔|
@@ -88,7 +88,7 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 > **NOTE** : Sans installation requise, vous pouvez vous servir des services de Google telles que [Docs](https://www.google.com/docs/about) (traitement de texte), [Sheets](https://www.google.com/sheets/about) (tableur) et [Slides](https://www.google.com/slides/about) (diaporama).
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**FreeOffice**](https://www.freeoffice.com/fr)|multi|propriétaire|✔|
 |[**LibreOffice**](https://fr.libreoffice.org)|multi|MPL|✔|
@@ -103,7 +103,7 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 
 Pour centraliser l'envoi et la réception de ses e-mails.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Geary**](https://wiki.gnome.org/Apps/Geary)|GNU/Linux|LGPL|✔|
 |[**Mailspring**](https://getmailspring.com)|multi|GPL|✔ / ❌|
@@ -115,7 +115,7 @@ Pour centraliser l'envoi et la réception de ses e-mails.
 
 Pour visionner ses images, lire ses fichiers PDF ou bandes dessinées.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Acrobat Reader DC**](https://get.adobe.com/reader/?loc=fr)|Windows, MacOS|propriétaire|✔|
 |[**Calibre**](https://calibre-ebook.com)|multi|GPL|✔|
@@ -130,7 +130,7 @@ Pour organiser ses notes.
 
 > **NOTE** : Sans installation requise, vous pouvez vous servir du service [Keep](https://keep.google.com) de Google.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Abricotine**](http://abricotine.brrd.fr)|multi|GPL|✔|
 |[**Evernote**](https://evernote.com/intl/fr)|multi|propriétaire|✔ / ❌|
@@ -146,7 +146,7 @@ Pour organiser ses notes.
 
 Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo (films, streaming, TV).
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**MPlayer**](http://mplayerhq.hu/design7/news.html)|multi|GPL|✔|
 |[**MPV**](https://mpv.io)|multi|GPL|✔|
@@ -157,7 +157,7 @@ Pour écouter sa musique, des stations de radio ou regarder du contenu vidéo (f
 
 Pour regarder ses émissions TV ou télécharger en local des replays.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Captvty**](https://captvty.fr)|Windows|propriétaire|✔|
 |[**Molotov**](https://www.molotov.tv/)|multi|propriétaire|✔ / ❌|
@@ -166,7 +166,7 @@ Pour regarder ses émissions TV ou télécharger en local des replays.
 
 Pour vos médias et/ou contenus hébergés en ligne depuis une même application (ex : Amazon Prime, MyTF1, Netflix, Orange VOD, Youtube, Twitch).
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Deezer**](https://www.deezer.com/fr/)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**Jellyfin**](https://jellyfin.org/)|multi|GPL|✔|
@@ -183,7 +183,7 @@ Pour vos médias et/ou contenus hébergés en ligne depuis une même application
 
 Pour coder vos programmes en profitant de la coloration syntaxique et de quelques modules configurables, ou même servir de simple éditeur de texte.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Atom**](https://atom.io)|multi|MIT|✔|
 |[**Brackets**](http://brackets.io)|multi|MIT|✔|
@@ -196,7 +196,7 @@ Pour coder vos programmes en profitant de la coloration syntaxique et de quelque
 
 Pour développer des projets conséquents et/ou disposer d'un ensemble plus fourni de modules et outils pour l'édition de code, la compilation, le débogage ou même les tests et le profilage.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Android Studio**](https://developer.android.com/studio)|multi|Apache|✔|
 |[**Eclipse**](https://www.eclipse.org)|multi|EPL|✔|
@@ -209,7 +209,7 @@ Pour développer des projets conséquents et/ou disposer d'un ensemble plus four
 
 Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des langages orientés web, avec export sur plusieurs plateformes.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**CryENGINE**](https://www.cryengine.com)|Windows|propriétaire|✔|
 |[**Godot**](https://godotengine.org)|multi|MIT|✔|
@@ -231,7 +231,7 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 
 Pour jouer à ses jeux en local ou en streaming (via un service auto-hébergé ou en ligne).
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
@@ -250,7 +250,7 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 
 > **NOTE** : Les clients sont disponibles gratuitement, mais ces derniers proposent des jeux gratuits (_Free 2 Play_) ou payants.
 
-|LOGICIEL|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Ankama Launcher**](https://www.ankama.com/fr/launcher)|multi|propriétaire|✔|
 |[**Arc**](https://www.arcgames.com/fr/about/client)|Windows|propriétaire|✔|
@@ -263,7 +263,7 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 
 Pour jouer à vos copies de jeux vidéo.
 
-|LOGICIEL|SUPPORT ÉMULÉ|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|NOM|SUPPORT ÉMULÉ|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--|:--:|
 |[**Bluestacks**](https://www.bluestacks.com/fr/index.html)|Android|Windows, MacOS|propriétaire|✔|
 |[**Bsnes**](https://byuu.org/bsnes)|SNES|Windows|GPL|✔|
