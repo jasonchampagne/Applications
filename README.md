@@ -77,7 +77,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |:--|:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|multi|MPL|✔|
 |[**Chrome**](https://www.google.com/chrome)|multi|propriétaire|✔|
-|[**Edge**](https://www.microsoft.com/fr-fr/edge)|Windows, MacOS|propriétaire|✔|
+|[**Edge**](https://www.microsoft.com/fr-fr/edge)|multi|MIT|✔|
 |[**Firefox**](https://www.mozilla.org/fr/firefox/new)|multi|GPL + LGPL + MPL|✔|
 |[**Opera**](https://www.opera.com/fr)|multi|propriétaire + open-source|✔|
 |[**Opera GX**](https://www.opera.com/fr/gx)|Windows, MacOS|propriétaire|✔|
