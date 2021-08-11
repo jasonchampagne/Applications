@@ -233,15 +233,15 @@ Pour jouer à ses jeux en local ou en streaming (via un service auto-hébergé o
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**EA App**](https://www.ea.com/fr-fr/ea-app-beta)|Windows|propriétaire|✔|
 |[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
 |[**Lutris**](https://lutris.net)|GNU/Linux|GPL|✔|
 |[**Moonlight**](https://moonlight-stream.org)|multi|GPL|✔|
-|[**Origin**](https://www.origin.com/fra/fr-fr/store/download)|Windows|propriétaire|✔|
 |[**Playnite**](https://playnite.link)|Windows|MIT|✔|
 |[**PlayStation Now**](https://www.playstation.com/fr-fr/explore/playstation-now/ps-now-on-pc)|Windows|propriétaire|✔|
 |[**Steam**](https://store.steampowered.com)|multi|propriétaire|✔|
-|[**Uplay**](https://uplay.ubisoft.com/fr-FR)|Windows, MacOS|propriétaire|✔|
+|[**Ubisoft Connect**](https://ubisoftconnect.com/fr-FR/)|Windows|propriétaire|✔|
 |[**Xbox Live**](https://www.xbox.com/fr-FR/xbox-game-pass/pc-games)|Windows|propriétaire|✔|
 
 ### Clients de jeux
