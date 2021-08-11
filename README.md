@@ -92,7 +92,7 @@ Pour éditer des documents, organiser des données dans un tableau, réaliser un
 |:--|:--|:--|:--:|
 |[**FreeOffice**](https://www.freeoffice.com/fr)|multi|propriétaire|✔|
 |[**LibreOffice**](https://fr.libreoffice.org)|multi|MPL|✔|
-|[**Office**](https://www.office.com)|Windows, MacOS|propriétaire|❌|
+|[**Office**](https://www.office.com)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**OnlyOffice**](https://www.onlyoffice.com/fr/download-desktop.aspx)|multi|AGPL ou SaaS|✔|
 
 ---
