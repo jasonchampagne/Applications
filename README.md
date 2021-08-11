@@ -233,6 +233,7 @@ Pour jouer à ses jeux en local ou en streaming (via un service auto-hébergé o
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Amazon Games**](https://www.amazongames.com/en-us/support/prime-gaming/articles/download-and-install-the-amazon-games-app)|Windows|propriétaire|✔|
 |[**EA App**](https://www.ea.com/fr-fr/ea-app-beta)|Windows|propriétaire|✔|
 |[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
@@ -252,7 +253,6 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Amazon Games**](https://www.amazongames.com/en-us/support/prime-gaming/articles/download-and-install-the-amazon-games-app)|Windows|propriétaire|✔|
 |[**Ankama Launcher**](https://www.ankama.com/fr/launcher)|multi|propriétaire|✔|
 |[**Arc**](https://www.arcgames.com/fr/about/client)|Windows|propriétaire|✔|
 |[**Battle.net**](https://www.blizzard.com/fr-fr/apps/battle.net/desktop)|Windows, MacOS|propriétaire|✔|
