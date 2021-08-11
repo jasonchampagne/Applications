@@ -252,11 +252,14 @@ Pour télécharger des jeux d'un éditeur bien spécifique.
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Amazon Games**](https://www.amazongames.com/en-us/support/prime-gaming/articles/download-and-install-the-amazon-games-app)|Windows|propriétaire|✔|
 |[**Ankama Launcher**](https://www.ankama.com/fr/launcher)|multi|propriétaire|✔|
 |[**Arc**](https://www.arcgames.com/fr/about/client)|Windows|propriétaire|✔|
 |[**Battle.net**](https://www.blizzard.com/fr-fr/apps/battle.net/desktop)|Windows, MacOS|propriétaire|✔|
+|[**Gameforge**](https://gameforge.com/fr-FR/download)|Windows|propriétaire|✔|
 |[**Glyph**](https://glyph.trionworlds.com)|Windows|propriétaire|✔|
 |[**My.games**](https://store.my.games)|Windows|propriétaire|✔|
+|[**NC Launcher**](https://www.aiononline.com/download)|Windows|propriétaire|✔|
 |[**Rockstar Games Launcher**](https://fr.socialclub.rockstargames.com/rockstar-games-launcher)|Windows|propriétaire|✔|
 
 ### Émulateurs
