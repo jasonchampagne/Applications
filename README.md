@@ -229,6 +229,7 @@ Pour dessiner/peindre, créer des images, éditer des photos et faire des retouc
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Darktable**](https://darktable.fr)|multi|GPL|✔|
 |[**Krita**](https://krita.org/fr)|multi|GPL|✔|
 |[**Photoshop**](https://www.adobe.com/fr/products/photoshop.html)|Windows, MacOS|propriétaire|❌|
 
