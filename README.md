@@ -264,6 +264,7 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 |[**Pro Tools**](https://www.avid.com/fr/pro-tools)|Windows, MacOS|propriétaire|❌|
 |[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
 |[**Reason**](https://www.reasonstudios.com/fr/reason)|Windows, MacOS|propriétaire|❌|
+|[**Rosegarden**](https://rosegardenmusic.com)|GNU/Linux|GPL|✔|
 
 ### Montage vidéo et FX
 
