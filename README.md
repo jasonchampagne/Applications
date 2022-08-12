@@ -258,6 +258,7 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 |:--|:--|:--|:--:|
 |[**Ardour**](https://ardour.org)|multi|GPL|✔|
 |[**Cubase**](https://www.steinberg.net/fr/cubase)|Windows, MacOS|propriétaire|❌|
+|[**LMMS**](https://lmms.io)|multi|GPL|✔|
 |[**Pro Tools**](https://www.avid.com/fr/pro-tools)|Windows, MacOS|propriétaire|❌|
 |[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
 
@@ -268,7 +269,7 @@ Pour monter des vidéos, crer des effets spéciaux, courts-métrages ou cinémat
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**DaVinci Resolve**](https://www.blackmagicdesign.com/fr/products/davinciresolve)|multi|propriétaire|✔ / ❌|
-|[**Natron**](https://natron.fr)|multi|LGPL|✔ / ❌|
+|[**Natron**](https://natron.fr)|multi|GPL|✔ / ❌|
 
 ---
 
