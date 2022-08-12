@@ -259,6 +259,7 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 |[**Ableton Live**](https://www.ableton.com/fr/live)|Windows, MacOS|propriétaire|❌|
 |[**Ardour**](https://ardour.org)|multi|GPL|✔|
 |[**Cubase**](https://www.steinberg.net/fr/cubase)|Windows, MacOS|propriétaire|❌|
+|[**FL Studio**](https://www.image-line.com/fl-studio)|Windows, MacOS|propriétaire|❌|
 |[**LMMS**](https://lmms.io)|multi|GPL|✔|
 |[**Pro Tools**](https://www.avid.com/fr/pro-tools)|Windows, MacOS|propriétaire|❌|
 |[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
