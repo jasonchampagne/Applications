@@ -229,6 +229,8 @@ Pour dessiner/peindre, créer des images, éditer des photos et faire des retouc
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Aseprite**](https://www.aseprite.org)|multi|propriétaire|❌|
+|[**Clip Studio Paint**](https://www.clipstudio.net/fr)|Windows, MacOS|propriétaire|❌|
 |[**Darktable**](https://darktable.fr)|multi|GPL|✔|
 |[**GIMP**](https://www.gimp.org)|multi|GPL + LGPL|✔|
 |[**Inkscape**](https://inkscape.org/fr)|multi|GPL|✔|
