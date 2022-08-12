@@ -237,7 +237,7 @@ Pour réalisation des modèles et scènes en trois dimensions et faire de l'anim
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|||||
+|[**Blender**](https://www.blender.org)|multi|GPL|✔|
 
 ### Mixage audio et mastering
 
