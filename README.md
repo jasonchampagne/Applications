@@ -270,6 +270,7 @@ Pour jouer à ses jeux en local ou en streaming (via un service auto-hébergé o
 |[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
 |[**GeForce Now**](https://www.nvidia.com/fr-fr/geforce-now)|multi|propriétaire|✔ / ❌|
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
+|[**Legacy Games Launcher**](https://legacygames.com/gameslauncher)|Windows|propriétaire|✔|
 |[**Lutris**](https://lutris.net)|GNU/Linux|GPL|✔|
 |[**Moonlight**](https://moonlight-stream.org)|multi|GPL|✔|
 |[**Playnite**](https://playnite.link)|Windows|MIT|✔|
