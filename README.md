@@ -265,6 +265,7 @@ Pour monter des vidéos, crer des effets spéciaux, courts-métrages ou cinémat
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**DaVinci Resolve**](https://www.blackmagicdesign.com/fr/products/davinciresolve)|multi|propriétaire|✔ / ❌|
+|[**Natron**](https://natron.fr)|multi|LGPL|✔ / ❌|
 
 ---
 
