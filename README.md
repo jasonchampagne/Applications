@@ -256,6 +256,7 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
+|[**Ableton Live**](https://www.ableton.com/fr/live)|Windows, MacOS|propriétaire|❌|
 |[**Ardour**](https://ardour.org)|multi|GPL|✔|
 |[**Cubase**](https://www.steinberg.net/fr/cubase)|Windows, MacOS|propriétaire|❌|
 |[**LMMS**](https://lmms.io)|multi|GPL|✔|
