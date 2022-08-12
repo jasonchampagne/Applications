@@ -319,6 +319,8 @@ Pour jouer à vos copies de jeux vidéo.
 |[**PCSX2**](https://pcsx2.net)|PS2|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|PSP|multi|GPL|✔|
 |[**RPCS3**](https://rpcs3.net)|PS3|multi|GPL|✔|
+|[**Ryujinx**](https://ryujinx.org)|Switch|Windows, GNU/Linux|GPL|✔|
+|[**Yuzu*](https://yuzu-emu.org)|Switch|Windows, MacOS|GPL|✔|
 
 ---
 
