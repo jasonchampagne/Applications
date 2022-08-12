@@ -202,7 +202,7 @@ Pour développer des projets conséquents et/ou disposer d'un ensemble plus four
 |[**Android Studio**](https://developer.android.com/studio)|multi|Apache|✔|
 |[**Eclipse**](https://www.eclipse.org)|multi|EPL|✔|
 |[**IntelliJ IDEA**](https://www.jetbrains.com/idea)|multi|Apache / propriétaire|✔ / ❌|
-|[**Netbeans**](http://netbeans.apache.org)|multi|Apache|✔|
+|[**NetBeans**](http://netbeans.apache.org)|multi|Apache|✔|
 |[**PhpStorm**](https://www.jetbrains.com/phpstorm)|multi|Apache / propriétaire|❌|
 |[**PyCharm**](https://www.jetbrains.com/pycharm)|multi|Apache / propriétaire|❌|
 |[**Qt Creator**](https://www.qt.io/product/development-tools)|multi|GPL + LGPL|✔ / ❌|
