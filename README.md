@@ -261,6 +261,7 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 |[**LMMS**](https://lmms.io)|multi|GPL|✔|
 |[**Pro Tools**](https://www.avid.com/fr/pro-tools)|Windows, MacOS|propriétaire|❌|
 |[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
+|[**Reason**](https://www.reasonstudios.com/fr/reason)|Windows, MacOS|propriétaire|❌|
 
 ### Montage vidéo et FX
 
