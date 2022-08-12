@@ -256,8 +256,9 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|[**Ardour*](https://ardour.org)|multi|GPL|✔|
+|[**Ardour**](https://ardour.org)|multi|GPL|✔|
 |[**Cubase**](https://www.steinberg.net/fr/cubase)|Windows, MacOS|propriétaire|❌|
+|[**Pro Tools**](https://www.avid.com/fr/pro-tools)|Windows, MacOS|propriétaire|❌|
 |[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
 
 ### Montage vidéo et FX
