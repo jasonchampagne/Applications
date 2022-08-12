@@ -71,7 +71,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder du contenu en streaming ou faire ses achats en ligne.
 
-> **NOTE** : Majoritairement, un navigateur peut lire vos médias et vos documents PDF. D'autres intègrent certains outils comme un [VPN](https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel) ou un client mail.
+> **NOTE** : Majoritairement, un navigateur peut lire vos médias et vos documents PDF. D'autres intègrent certains outils comme un VPN ou un client mail.
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
