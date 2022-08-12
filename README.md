@@ -238,6 +238,7 @@ Pour réalisation des modèles et scènes en trois dimensions et faire de l'anim
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Blender**](https://www.blender.org)|multi|GPL|✔|
+|[**Maya**](https://www.autodesk.fr/products/maya/overview?term=1-YEAR&tab=subscription)|multi|propriétaire|❌|
 
 ### Mixage audio et mastering
 
