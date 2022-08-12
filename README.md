@@ -64,6 +64,7 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 |:--|:--|:--|:--:|
 |[**Bitwarden**](https://bitwarden.com)|multi|AGPL + GPL|✔ / ❌|
 |[**KeePassXC**](https://keepassxc.org)|multi|GPL|✔|
+|[**KeeWeb**](https://keeweb.info)|multi|MIT|✔|
 |[**LastPass**](https://www.lastpass.com/fr)|multi|propriétaire|✔ / ❌|
 
 ### Navigateur web
