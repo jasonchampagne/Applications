@@ -261,10 +261,12 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 |[**Cubase**](https://www.steinberg.net/fr/cubase)|Windows, MacOS|propriétaire|❌|
 |[**FL Studio**](https://www.image-line.com/fl-studio)|Windows, MacOS|propriétaire|❌|
 |[**LMMS**](https://lmms.io)|multi|GPL|✔|
+|[**Logic Pro**](https://www.apple.com/fr/logic-pro)|MacOS|propriétaire|❌|
 |[**Pro Tools**](https://www.avid.com/fr/pro-tools)|Windows, MacOS|propriétaire|❌|
 |[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
 |[**Reason**](https://www.reasonstudios.com/fr/reason)|Windows, MacOS|propriétaire|❌|
 |[**Rosegarden**](https://rosegardenmusic.com)|GNU/Linux|GPL|✔|
+|[**Studio One**](https://www.presonus.com/produits/fr/Studio-One)|Windows, MacOS|propriétaire|❌|
 
 ### Montage vidéo et FX
 
