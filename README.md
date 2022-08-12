@@ -223,7 +223,37 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 
 ## N'OUBLIONS PAS LES ARTISTES
 
-À venir...
+### Infographie
+
+Pour dessiner/peindre, créer des images, éditer des photos et faire des retouches ou créer des illustrations.
+
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|||||
+
+### Modélisation 3D
+
+Pour réalisation des modèles et scènes en trois dimensions et faire de l'animation.
+
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|||||
+
+### Mixage audio et mastering
+
+Pour créer des chansons, sons d'ambiances, effets audio et performances vocales.
+
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|||||
+
+### Montage vidéo et FX
+
+Pour monter des vidéos, crer des effets spéciaux, courts-métrages ou cinématiques.
+
+|NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
+|:--|:--|:--|:--:|
+|||||
 
 ---
 
