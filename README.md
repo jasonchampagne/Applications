@@ -303,22 +303,22 @@ Pour jouer à vos copies de jeux vidéo.
 |NOM|SUPPORT ÉMULÉ|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--|:--:|
 |[**Bluestacks**](https://www.bluestacks.com/fr/index.html)|Android|Windows, MacOS|propriétaire|✔|
-|[**Bsnes**](https://byuu.org/bsnes)|SNES|Windows|GPL|✔|
-|[**Cemu**](http://cemu.info/index.html)|Wii U|Windows|propriétaire|✔|
+|[**Bsnes**](https://byuu.org/bsnes)|Super Nintendo|Windows|GPL|✔|
+|[**Cemu**](http://cemu.info/index.html)|WiiU|Windows|propriétaire|✔|
 |[**Citra**](https://citra-emu.org)|3DS|multi|GPL|✔|
 |[**DeSmuME**](http://desmume.org)|DS|multi|GPL|✔|
-|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GC + Wii|multi|GPL|✔|
+|[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GameCube + Wii|multi|GPL|✔|
 |[**DOSBox**](https://www.dosbox.com)|DOS|multi|GPL|✔|
-|[**DuckStation**](https://www.duckstation.org)|PS1|multi|GPL|✔|
-|[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
+|[**DuckStation**](https://www.duckstation.org)|PlayStation 1|multi|GPL|✔|
+|[**ePSXe**](http://www.epsxe.com)|PlayStation 1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
 |[**LDPlayer**](https://fr.ldplayer.net/)|Android|Windows|propriétaire|✔|
 |[**MEmu Play**](https://www.memuplay.com/)|Android|Windows|propriétaire|✔|
-|[**mGBA**](https://mgba.io)|GB(C) + GBA|multi|MPL|✔|
+|[**mGBA**](https://mgba.io)|GameBoy (Color) + GameBoy Advance|multi|MPL|✔|
 |[**NoxPlayer**](https://fr.bignox.com/)|Android|Windows, MacOS|propriétaire|✔|
-|[**PCSX2**](https://pcsx2.net)|PS2|multi|GPL|✔|
-|[**PPSSPP**](https://www.ppsspp.org)|PSP|multi|GPL|✔|
-|[**RPCS3**](https://rpcs3.net)|PS3|multi|GPL|✔|
+|[**PCSX2**](https://pcsx2.net)|PlayStation 2|multi|GPL|✔|
+|[**PPSSPP**](https://www.ppsspp.org)|PlayStation Portable|multi|GPL|✔|
+|[**RPCS3**](https://rpcs3.net)|PlayStation 3|multi|GPL|✔|
 |[**Ryujinx**](https://ryujinx.org)|Switch|Windows, GNU/Linux|GPL|✔|
 |[**Yuzu**](https://yuzu-emu.org)|Switch|Windows, MacOS|GPL|✔|
 
