@@ -268,6 +268,7 @@ Pour jouer à ses jeux en local ou en streaming (via un service auto-hébergé o
 |[**Amazon Games**](https://www.amazongames.com/en-us/support/prime-gaming/articles/download-and-install-the-amazon-games-app)|Windows|propriétaire|✔|
 |[**EA App**](https://www.ea.com/fr-fr/ea-app-beta)|Windows|propriétaire|✔|
 |[**Epic Games Store**](https://www.epicgames.com/store/fr)|Windows, MacOS|propriétaire|✔|
+|[**GeForce Now**](https://www.nvidia.com/fr-fr/geforce-now)|multi|propriétaire|✔ / ❌|
 |[**GOG Galaxy**](https://www.gog.com/galaxy)|multi|propriétaire|✔|
 |[**Lutris**](https://lutris.net)|GNU/Linux|GPL|✔|
 |[**Moonlight**](https://moonlight-stream.org)|multi|GPL|✔|
