@@ -312,6 +312,7 @@ Pour jouer à vos copies de jeux vidéo.
 |[**DuckStation**](https://www.duckstation.org)|PlayStation 1|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PlayStation 1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
+|[**GearSystem**](https://github.com/drhelius/Gearsystem)|Sega Master System, Game Gear, SG-1000|multi|GPL|✔|
 |[**LDPlayer**](https://fr.ldplayer.net/)|Android|Windows|propriétaire|✔|
 |[**MEmu Play**](https://www.memuplay.com/)|Android|Windows|propriétaire|✔|
 |[**mGBA**](https://mgba.io)|GameBoy (Advance)|multi|MPL|✔|
