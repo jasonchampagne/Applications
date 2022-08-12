@@ -317,6 +317,7 @@ Pour jouer à vos copies de jeux vidéo.
 |[**NoxPlayer**](https://fr.bignox.com/)|Android|Windows, MacOS|propriétaire|✔|
 |[**PCSX2**](https://pcsx2.net)|PS2|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|PSP|multi|GPL|✔|
+|[**RPCS3**](https://rpcs3.net)|PS3|multi|GPL|✔|
 
 ---
 
