@@ -203,6 +203,7 @@ Pour développer des projets conséquents et/ou disposer d'un ensemble plus four
 |[**Eclipse**](https://www.eclipse.org)|multi|EPL|✔|
 |[**IntelliJ IDEA**](https://www.jetbrains.com/idea)|multi|Apache / propriétaire|✔ / ❌|
 |[**Netbeans**](http://netbeans.apache.org)|multi|Apache|✔|
+|[**PyCharm**](https://www.jetbrains.com/pycharm)|multi|Apache / propriétaire|❌|
 |[**Visual Studio**](https://visualstudio.microsoft.com/fr)|Windows, MacOS|propriétaire|✔ / ❌|
 |[**Xcode**](https://developer.apple.com/xcode)|MacOS|propriétaire|✔|
 
