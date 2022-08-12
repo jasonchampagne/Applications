@@ -216,8 +216,13 @@ Pour concevoir vos jeux-vidéos, principalement avec les langages C++, C# ou des
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**CryENGINE**](https://www.cryengine.com)|Windows|propriétaire|✔|
+|[**GameMaker**](https://gamemaker.io/fr/gamemaker)|Windows, MacOS|propriétaire|✔ / ❌|
+|[**GDevelop**](https://gdevelop.io)|multi|MIT|✔|
 |[**Godot**](https://godotengine.org)|multi|MIT|✔|
+|[**jMonkeyEngine**](https://jmonkeyengine.org)|multi|BSD|✔|
 |[**Lumberyard**](https://aws.amazon.com/fr/lumberyard/)|Windows|propriétaire|✔|
+|[**Panda3D**](https://www.panda3d.org)|multi|BSD|✔|
+|[**RPG Maker**](https://www.rpgmakerweb.com)|multi|propriétaire|❌|
 |[**Unity**](https://unity.com/fr)|multi|propriétaire|✔|
 |[**Unreal Engine**](https://www.unrealengine.com)|Windows|open-source|✔|
 
