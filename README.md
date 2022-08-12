@@ -230,7 +230,9 @@ Pour dessiner/peindre, créer des images, éditer des photos et faire des retouc
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
 |[**Darktable**](https://darktable.fr)|multi|GPL|✔|
+|[**GIMP**](https://www.gimp.org)|multi|GPL + LGPL|✔|
 |[**Krita**](https://krita.org/fr)|multi|GPL|✔|
+|[**Mypaint**](http://mypaint.org)|multi|GPL|✔|
 |[**Photoshop**](https://www.adobe.com/fr/products/photoshop.html)|Windows, MacOS|propriétaire|❌|
 
 ### Modélisation 3D
