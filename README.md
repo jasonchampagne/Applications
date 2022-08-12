@@ -314,7 +314,7 @@ Pour jouer à vos copies de jeux vidéo.
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
 |[**LDPlayer**](https://fr.ldplayer.net/)|Android|Windows|propriétaire|✔|
 |[**MEmu Play**](https://www.memuplay.com/)|Android|Windows|propriétaire|✔|
-|[**mGBA**](https://mgba.io)|GameBoy + GameBoy Advance|multi|MPL|✔|
+|[**mGBA**](https://mgba.io)|GameBoy (Advance)|multi|MPL|✔|
 |[**NoxPlayer**](https://fr.bignox.com/)|Android|Windows, MacOS|propriétaire|✔|
 |[**PCSX2**](https://pcsx2.net)|PlayStation 2|multi|GPL|✔|
 |[**PPSSPP**](https://www.ppsspp.org)|PlayStation Portable|multi|GPL|✔|
