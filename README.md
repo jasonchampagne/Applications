@@ -309,6 +309,7 @@ Pour jouer à vos copies de jeux vidéo.
 |[**DeSmuME**](http://desmume.org)|DS|multi|GPL|✔|
 |[**Dolphin**](https://fr.dolphin-emu.org/?cr=fr)|GC + Wii|multi|GPL|✔|
 |[**DOSBox**](https://www.dosbox.com)|DOS|multi|GPL|✔|
+|[**DuckStation**](https://www.duckstation.org)|PS1|multi|GPL|✔|
 |[**ePSXe**](http://www.epsxe.com)|PS1|multi|propriétaire|✔|
 |[**FCEUX**](http://www.fceux.com/web/home.html)|NES|multi|GPL|✔|
 |[**LDPlayer**](https://fr.ldplayer.net/)|Android|Windows|propriétaire|✔|
