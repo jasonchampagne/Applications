@@ -231,6 +231,7 @@ Pour dessiner/peindre, créer des images, éditer des photos et faire des retouc
 |:--|:--|:--|:--:|
 |[**Darktable**](https://darktable.fr)|multi|GPL|✔|
 |[**GIMP**](https://www.gimp.org)|multi|GPL + LGPL|✔|
+|[**Inkscape**](https://inkscape.org/fr)|multi|GPL|✔|
 |[**Krita**](https://krita.org/fr)|multi|GPL|✔|
 |[**Mypaint**](http://mypaint.org)|multi|GPL|✔|
 |[**Photoshop**](https://www.adobe.com/fr/products/photoshop.html)|Windows, MacOS|propriétaire|❌|
