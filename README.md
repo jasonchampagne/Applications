@@ -256,7 +256,7 @@ Pour créer des chansons, sons d'ambiances, effets audio et performances vocales
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|||||
+|[**REAPER**](https://www.reaper.fm)|multi|propriétaire|✔ / ❌|
 
 ### Montage vidéo et FX
 
@@ -264,7 +264,7 @@ Pour monter des vidéos, crer des effets spéciaux, courts-métrages ou cinémat
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
-|||||
+|[**DaVinci Resolve**](https://www.blackmagicdesign.com/fr/products/davinciresolve)|multi|propriétaire|✔ / ❌|
 
 ---
 
