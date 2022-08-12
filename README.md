@@ -44,7 +44,7 @@ Bonne découverte ! 😉
 
 Pour sécuriser son système et éviter l'accès à certains liens malveillants, tentatives de vol d'identifiants ou corruptions de données.
 
-> **NOTE** : À moins d'être une entreprise assez conséquente, il n'est pas utile d'investir dans une solution payante et coûteuse. Beaucoup d'éditeurs proposent une version gratuite qui offre déjà une très bonne protection. De plus, s'il ne cause pas de ralentissements sur votre système, l'antivirus de Windows (Defender) est suffisant.
+> **NOTE** : À moins d'être une entreprise assez conséquente, il n'est pas utile d'investir dans une solution payante et coûteuse. Beaucoup d'éditeurs proposent une version gratuite qui offre déjà une très bonne protection. De plus, s'il ne cause pas de ralentissements sur votre système, l'antivirus de Windows (Defender) est idéal.
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
