@@ -87,7 +87,7 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 
 Pour éditer des documents, organiser des données dans un tableau, réaliser une présentation visuelle.
 
-> **NOTE** : Sans installation requise, vous pouvez vous servir des services de Google telles que [Docs](https://www.google.com/docs/about) (traitement de texte), [Sheets](https://www.google.com/sheets/about) (tableur) et [Slides](https://www.google.com/slides/about) (diaporama).
+> **NOTE** : Sans installation requise, vous pouvez vous servir des services de Google telles que [Docs](https://www.google.com/docs/about) (traitement de texte), [Sheets](https://www.google.com/sheets/about) (tableurs), [Slides](https://www.google.com/slides/about) (diaporamas) et [Forms](https://www.google.com/intl/fr/forms/about) (formulaires).
 
 |NOM|PLATEFORME(S)|LICENCE|GRATUIT ?|
 |:--|:--|:--|:--:|
